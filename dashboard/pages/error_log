@@ -1,0 +1,409 @@
+[16-Nov-2021 21:13:56 UTC] PHP Warning:  require(PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home/fticonsu/public_html/escrow/dashboard/pages/sign-up.php on line 50
+[16-Nov-2021 21:13:56 UTC] PHP Warning:  require(PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home/fticonsu/public_html/escrow/dashboard/pages/sign-up.php on line 50
+[16-Nov-2021 21:13:56 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer/src/Exception.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/fticonsu/public_html/escrow/dashboard/pages/sign-up.php on line 50
+[16-Nov-2021 21:15:29 UTC] PHP Notice:  Undefined index: pword in /home/fticonsu/public_html/escrow/dashboard/pages/sign-up.php on line 161
+[17-Nov-2021 20:46:48 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) in /home/fticonsu/public_html/escrow/db.php on line 4
+[17-Nov-2021 20:47:03 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) in /home/fticonsu/public_html/escrow/db.php on line 4
+[17-Nov-2021 20:47:03 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/fticonsu/public_html/escrow/dashboard/pages/sign-up.php on line 15
+[17-Nov-2021 20:47:03 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/fticonsu/public_html/escrow/dashboard/pages/sign-up.php on line 18
+[17-Nov-2021 20:47:03 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/fticonsu/public_html/escrow/dashboard/pages/sign-up.php on line 20
+[17-Nov-2021 20:47:03 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/fticonsu/public_html/escrow/dashboard/pages/sign-up.php on line 22
+[17-Nov-2021 20:47:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fticonsu/public_html/escrow/dashboard/pages/sign-up.php on line 29
+[17-Nov-2021 20:47:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/fticonsu/public_html/escrow/dashboard/pages/sign-up.php on line 30
+[17-Nov-2021 20:47:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fticonsu/public_html/escrow/dashboard/pages/sign-up.php on line 48
+[17-Nov-2021 20:56:29 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) in /home/fticonsu/public_html/escrow/db.php on line 4
+[17-Nov-2021 20:56:46 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) in /home/fticonsu/public_html/escrow/db.php on line 4
+[17-Nov-2021 20:57:11 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) in /home/fticonsu/public_html/escrow/db.php on line 4
+[26-Nov-2021 14:45:19 UTC] PHP Warning:  require(db.php): failed to open stream: No such file or directory in /home/escrowch/public_html/dashboard/pages/escrow.php on line 3
+[26-Nov-2021 14:45:19 UTC] PHP Warning:  require(db.php): failed to open stream: No such file or directory in /home/escrowch/public_html/dashboard/pages/escrow.php on line 3
+[26-Nov-2021 14:45:19 UTC] PHP Fatal error:  require(): Failed opening required 'db.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/escrowch/public_html/dashboard/pages/escrow.php on line 3
+[26-Nov-2021 14:45:22 UTC] PHP Warning:  require(db.php): failed to open stream: No such file or directory in /home/escrowch/public_html/dashboard/pages/escrow.php on line 3
+[26-Nov-2021 14:45:22 UTC] PHP Warning:  require(db.php): failed to open stream: No such file or directory in /home/escrowch/public_html/dashboard/pages/escrow.php on line 3
+[26-Nov-2021 14:45:22 UTC] PHP Fatal error:  require(): Failed opening required 'db.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/escrowch/public_html/dashboard/pages/escrow.php on line 3
+[26-Nov-2021 14:46:00 UTC] PHP Warning:  require(db.php): failed to open stream: No such file or directory in /home/escrowch/public_html/dashboard/pages/escrow.php on line 3
+[26-Nov-2021 14:46:00 UTC] PHP Warning:  require(db.php): failed to open stream: No such file or directory in /home/escrowch/public_html/dashboard/pages/escrow.php on line 3
+[26-Nov-2021 14:46:00 UTC] PHP Fatal error:  require(): Failed opening required 'db.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/escrowch/public_html/dashboard/pages/escrow.php on line 3
+[26-Nov-2021 14:47:16 UTC] PHP Warning:  require(db.php): failed to open stream: No such file or directory in /home/escrowch/public_html/dashboard/pages/escrow.php on line 3
+[26-Nov-2021 14:47:16 UTC] PHP Warning:  require(db.php): failed to open stream: No such file or directory in /home/escrowch/public_html/dashboard/pages/escrow.php on line 3
+[26-Nov-2021 14:47:16 UTC] PHP Fatal error:  require(): Failed opening required 'db.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/escrowch/public_html/dashboard/pages/escrow.php on line 3
+[26-Nov-2021 14:48:07 UTC] PHP Warning:  require(db.php): failed to open stream: No such file or directory in /home/escrowch/public_html/dashboard/pages/escrow.php on line 3
+[26-Nov-2021 14:48:07 UTC] PHP Warning:  require(db.php): failed to open stream: No such file or directory in /home/escrowch/public_html/dashboard/pages/escrow.php on line 3
+[26-Nov-2021 14:48:07 UTC] PHP Fatal error:  require(): Failed opening required 'db.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/escrowch/public_html/dashboard/pages/escrow.php on line 3
+[26-Nov-2021 14:48:08 UTC] PHP Warning:  require(db.php): failed to open stream: No such file or directory in /home/escrowch/public_html/dashboard/pages/escrow.php on line 3
+[26-Nov-2021 14:48:08 UTC] PHP Warning:  require(db.php): failed to open stream: No such file or directory in /home/escrowch/public_html/dashboard/pages/escrow.php on line 3
+[26-Nov-2021 14:48:08 UTC] PHP Fatal error:  require(): Failed opening required 'db.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/escrowch/public_html/dashboard/pages/escrow.php on line 3
+[26-Nov-2021 14:48:08 UTC] PHP Warning:  require(db.php): failed to open stream: No such file or directory in /home/escrowch/public_html/dashboard/pages/escrow.php on line 3
+[26-Nov-2021 14:48:08 UTC] PHP Warning:  require(db.php): failed to open stream: No such file or directory in /home/escrowch/public_html/dashboard/pages/escrow.php on line 3
+[26-Nov-2021 14:48:08 UTC] PHP Fatal error:  require(): Failed opening required 'db.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/escrowch/public_html/dashboard/pages/escrow.php on line 3
+[26-Nov-2021 14:48:49 UTC] PHP Notice:  Undefined index: id in /home/escrowch/public_html/dashboard/pages/escrow.php on line 276
+[26-Nov-2021 20:01:50 UTC] PHP Notice:  Undefined index: id in /home/escrowch/public_html/dashboard/pages/escrow.php on line 276
+[26-Nov-2021 20:05:05 UTC] PHP Notice:  Undefined index: id in /home/escrowch/public_html/dashboard/pages/escrow.php on line 276
+[26-Nov-2021 20:21:29 UTC] PHP Notice:  Undefined index: id in /home/escrowch/public_html/dashboard/pages/escrow.php on line 276
+[26-Nov-2021 20:22:53 UTC] PHP Notice:  Undefined index: id in /home/escrowch/public_html/dashboard/pages/escrow.php on line 276
+[26-Nov-2021 20:30:04 UTC] PHP Notice:  Undefined index: id in /home/escrowch/public_html/dashboard/pages/escrow.php on line 276
+[26-Nov-2021 20:33:29 UTC] PHP Notice:  Undefined index: id in /home/escrowch/public_html/dashboard/pages/escrow.php on line 276
+[26-Nov-2021 21:32:05 UTC] PHP Notice:  Undefined index: id in /home/escrowch/public_html/dashboard/pages/escrow.php on line 8
+[26-Nov-2021 21:33:01 UTC] PHP Notice:  Undefined index: id in /home/escrowch/public_html/dashboard/pages/escrow.php on line 8
+[26-Nov-2021 22:04:37 UTC] PHP Notice:  Undefined index: id in /home/escrowch/public_html/dashboard/pages/escrow.php on line 12
+[26-Nov-2021 22:09:13 UTC] PHP Notice:  Undefined index: physical in /home/escrowch/public_html/dashboard/pages/escrow.php on line 20
+[26-Nov-2021 22:11:40 UTC] PHP Notice:  Undefined index: physical in /home/escrowch/public_html/dashboard/pages/escrow.php on line 20
+[26-Nov-2021 22:17:05 UTC] PHP Notice:  Undefined variable: sql in /home/escrowch/public_html/dashboard/pages/escrow.php on line 128
+[26-Nov-2021 22:17:05 UTC] PHP Fatal error:  Query Failed! SQL:  - Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '', 'h', 'no', 'BTC', '6', '831029', 'BTC', '1')' at line 2 in /home/escrowch/public_html/dashboard/pages/escrow.php on line 128
+[26-Nov-2021 22:18:44 UTC] PHP Notice:  Undefined variable: sql in /home/escrowch/public_html/dashboard/pages/escrow.php on line 128
+[26-Nov-2021 22:18:44 UTC] PHP Fatal error:  Query Failed! SQL:  - Error: Column count doesn't match value count at row 1 in /home/escrowch/public_html/dashboard/pages/escrow.php on line 128
+[26-Nov-2021 22:57:17 UTC] PHP Notice:  Undefined variable: num_rows2 in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 247
+[01-Dec-2021 13:34:49 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'escrowch_new'@'localhost' (using password: YES) in /home/escrowch/public_html/db.php on line 4
+[01-Dec-2021 13:34:49 UTC] PHP Notice:  Undefined index: id in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 8
+[01-Dec-2021 13:34:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 11
+[01-Dec-2021 13:34:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 12
+[01-Dec-2021 13:34:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 17
+[01-Dec-2021 13:34:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 18
+[01-Dec-2021 13:34:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 472
+[01-Dec-2021 13:35:04 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'escrowch_new'@'localhost' (using password: YES) in /home/escrowch/public_html/db.php on line 4
+[01-Dec-2021 17:19:57 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'escrowch_new'@'localhost' (using password: YES) in /home/escrowch/public_html/db.php on line 4
+[01-Dec-2021 17:37:27 UTC] PHP Notice:  Undefined index: id in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 8
+[01-Dec-2021 17:37:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 12
+[01-Dec-2021 17:37:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 18
+[01-Dec-2021 17:37:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 472
+[01-Dec-2021 17:45:28 UTC] PHP Notice:  Undefined index: id in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 8
+[01-Dec-2021 17:45:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 12
+[01-Dec-2021 17:45:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 18
+[01-Dec-2021 17:45:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 472
+[01-Dec-2021 17:46:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/sign-in.php on line 14
+[01-Dec-2021 17:46:07 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/sign-in.php on line 15
+[01-Dec-2021 17:47:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 12
+[01-Dec-2021 17:47:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 18
+[01-Dec-2021 17:47:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 472
+[01-Dec-2021 17:47:58 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 12
+[01-Dec-2021 17:47:58 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 18
+[01-Dec-2021 17:47:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 472
+[01-Dec-2021 17:48:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 12
+[01-Dec-2021 17:48:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 18
+[01-Dec-2021 17:48:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 472
+[01-Dec-2021 17:48:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 12
+[01-Dec-2021 17:48:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 18
+[01-Dec-2021 17:48:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 472
+[01-Dec-2021 17:48:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 12
+[01-Dec-2021 17:48:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 18
+[01-Dec-2021 17:48:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 472
+[01-Dec-2021 17:48:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 12
+[01-Dec-2021 17:48:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 18
+[01-Dec-2021 17:48:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 472
+[01-Dec-2021 18:28:20 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 12
+[01-Dec-2021 18:28:20 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 18
+[01-Dec-2021 18:28:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 472
+[01-Dec-2021 18:37:17 UTC] PHP Notice:  Undefined index: uname in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 15
+[01-Dec-2021 18:37:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 20
+[01-Dec-2021 18:37:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 26
+[01-Dec-2021 18:37:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 480
+[01-Dec-2021 18:37:55 UTC] PHP Notice:  Undefined index: uname in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 15
+[01-Dec-2021 18:37:55 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 20
+[01-Dec-2021 18:37:55 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 26
+[01-Dec-2021 18:37:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 480
+[01-Dec-2021 18:38:00 UTC] PHP Notice:  Undefined index: uname in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 15
+[01-Dec-2021 18:38:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 20
+[01-Dec-2021 18:38:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 26
+[01-Dec-2021 18:38:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 480
+[01-Dec-2021 18:38:01 UTC] PHP Notice:  Undefined index: uname in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 15
+[01-Dec-2021 18:38:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 20
+[01-Dec-2021 18:38:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 26
+[01-Dec-2021 18:38:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 480
+[01-Dec-2021 18:38:02 UTC] PHP Notice:  Undefined index: uname in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 15
+[01-Dec-2021 18:38:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 20
+[01-Dec-2021 18:38:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 26
+[01-Dec-2021 18:38:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 480
+[01-Dec-2021 18:38:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 20
+[01-Dec-2021 18:38:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 26
+[01-Dec-2021 18:38:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 480
+[01-Dec-2021 18:38:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 20
+[01-Dec-2021 18:38:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 26
+[01-Dec-2021 18:38:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 480
+[01-Dec-2021 18:46:50 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 20
+[01-Dec-2021 18:46:50 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 26
+[01-Dec-2021 18:46:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 480
+[01-Dec-2021 18:52:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 20
+[01-Dec-2021 18:52:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 26
+[01-Dec-2021 18:52:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 480
+[01-Dec-2021 19:17:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 26
+[01-Dec-2021 19:17:37 UTC] PHP Notice:  Undefined variable: num_rows3 in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 298
+[01-Dec-2021 19:20:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 26
+[01-Dec-2021 19:20:38 UTC] PHP Notice:  Undefined variable: num_rows3 in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 298
+[01-Dec-2021 19:20:45 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 26
+[01-Dec-2021 19:20:45 UTC] PHP Notice:  Undefined variable: num_rows3 in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 298
+[01-Dec-2021 21:37:14 UTC] PHP Notice:  Undefined index: id in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 8
+[01-Dec-2021 21:37:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 13
+[01-Dec-2021 21:45:49 UTC] PHP Notice:  Undefined index: id in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 8
+[01-Dec-2021 21:45:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 13
+[01-Dec-2021 22:27:57 UTC] PHP Notice:  Undefined variable: num_rows in /home/escrowch/public_html/dashboard/pages/coinmixin.php on line 462
+[01-Dec-2021 22:27:57 UTC] PHP Notice:  Undefined variable: num_rows4 in /home/escrowch/public_html/dashboard/pages/coinmixin.php on line 539
+[01-Dec-2021 22:27:57 UTC] PHP Notice:  Undefined variable: num_rows3 in /home/escrowch/public_html/dashboard/pages/coinmixin.php on line 616
+[01-Dec-2021 22:30:51 UTC] PHP Notice:  Undefined variable: num_rows in /home/escrowch/public_html/dashboard/pages/coinmixin.php on line 462
+[01-Dec-2021 22:30:51 UTC] PHP Notice:  Undefined variable: num_rows4 in /home/escrowch/public_html/dashboard/pages/coinmixin.php on line 539
+[01-Dec-2021 22:30:51 UTC] PHP Notice:  Undefined variable: num_rows3 in /home/escrowch/public_html/dashboard/pages/coinmixin.php on line 616
+[01-Dec-2021 22:35:12 UTC] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/escrowch/public_html/dashboard/pages/pay.php on line 3
+[01-Dec-2021 22:35:12 UTC] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/escrowch/public_html/dashboard/pages/pay.php on line 3
+[01-Dec-2021 22:35:12 UTC] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/escrowch/public_html/dashboard/pages/pay.php on line 3
+[01-Dec-2021 22:35:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/escrowch/public_html/dashboard/pages/pay.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/escrowch/public_html/dashboard/pages/pay.php on line 14
+[01-Dec-2021 22:59:12 UTC] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/escrowch/public_html/dashboard/pages/pay2.php on line 3
+[01-Dec-2021 22:59:12 UTC] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/escrowch/public_html/dashboard/pages/pay2.php on line 3
+[01-Dec-2021 22:59:12 UTC] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/escrowch/public_html/dashboard/pages/pay2.php on line 3
+[01-Dec-2021 22:59:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/escrowch/public_html/dashboard/pages/pay2.php on line 20
+[01-Dec-2021 22:59:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/escrowch/public_html/dashboard/pages/pay2.php on line 28
+[01-Dec-2021 22:59:12 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/pages/pay2.php on line 30
+[01-Dec-2021 23:02:02 UTC] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/escrowch/public_html/dashboard/pages/pay2.php on line 3
+[01-Dec-2021 23:02:02 UTC] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/escrowch/public_html/dashboard/pages/pay2.php on line 3
+[01-Dec-2021 23:02:02 UTC] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/escrowch/public_html/dashboard/pages/pay2.php on line 3
+[01-Dec-2021 23:02:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/escrowch/public_html/dashboard/pages/pay2.php on line 20
+[01-Dec-2021 23:02:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/escrowch/public_html/dashboard/pages/pay2.php on line 28
+[01-Dec-2021 23:02:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/pages/pay2.php on line 30
+[01-Dec-2021 23:02:16 UTC] PHP Notice:  Undefined variable: rowUser in /home/escrowch/public_html/dashboard/pages/deposit.php on line 493
+[01-Dec-2021 23:02:54 UTC] PHP Notice:  Undefined variable: rowUser in /home/escrowch/public_html/dashboard/pages/deposit.php on line 493
+[01-Dec-2021 23:03:07 UTC] PHP Notice:  Undefined variable: rowUser in /home/escrowch/public_html/dashboard/pages/deposit.php on line 493
+[01-Dec-2021 23:03:07 UTC] PHP Notice:  Undefined variable: rowUser in /home/escrowch/public_html/dashboard/pages/deposit.php on line 493
+[01-Dec-2021 23:58:09 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/escrowch/public_html/dashboard/pages/pay.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/escrowch/public_html/dashboard/pages/pay.php on line 45
+[01-Dec-2021 23:59:12 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/escrowch/public_html/dashboard/pages/pay.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/escrowch/public_html/dashboard/pages/pay.php on line 45
+[01-Dec-2021 23:59:19 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/escrowch/public_html/dashboard/pages/pay.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/escrowch/public_html/dashboard/pages/pay.php on line 45
+[02-Dec-2021 00:01:23 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/escrowch/public_html/dashboard/pages/pay.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/escrowch/public_html/dashboard/pages/pay.php on line 47
+[03-Dec-2021 11:58:19 UTC] PHP Notice:  Undefined index: id in /home/escrowch/public_html/dashboard/pages/escrow.php on line 12
+[03-Dec-2021 11:58:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/escrowch/public_html/dashboard/pages/escrow.php:12) in /home/escrowch/public_html/dashboard/pages/escrow.php on line 15
+[03-Dec-2021 11:58:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/escrow.php on line 20
+[03-Dec-2021 11:58:19 UTC] PHP Notice:  Undefined index: is_logged_in in /home/escrowch/public_html/dashboard/pages/escrow.php on line 25
+[03-Dec-2021 11:58:28 UTC] PHP Notice:  Undefined index: id in /home/escrowch/public_html/dashboard/pages/withdraw.php on line 8
+[03-Dec-2021 11:58:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/escrowch/public_html/dashboard/pages/withdraw.php:8) in /home/escrowch/public_html/dashboard/pages/withdraw.php on line 10
+[03-Dec-2021 11:58:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/withdraw.php on line 15
+[03-Dec-2021 11:58:28 UTC] PHP Notice:  Undefined index: is_logged_in in /home/escrowch/public_html/dashboard/pages/withdraw.php on line 20
+[03-Dec-2021 11:58:38 UTC] PHP Notice:  Undefined index: id in /home/escrowch/public_html/dashboard/pages/withdraw.php on line 8
+[03-Dec-2021 11:58:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/escrowch/public_html/dashboard/pages/withdraw.php:8) in /home/escrowch/public_html/dashboard/pages/withdraw.php on line 10
+[03-Dec-2021 11:58:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/withdraw.php on line 15
+[03-Dec-2021 11:58:38 UTC] PHP Notice:  Undefined index: is_logged_in in /home/escrowch/public_html/dashboard/pages/withdraw.php on line 20
+[03-Dec-2021 18:30:19 UTC] PHP Notice:  Undefined index: id in /home/escrowch/public_html/dashboard/pages/escrow.php on line 12
+[03-Dec-2021 18:30:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/escrowch/public_html/dashboard/pages/escrow.php:12) in /home/escrowch/public_html/dashboard/pages/escrow.php on line 15
+[03-Dec-2021 18:30:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/escrow.php on line 20
+[03-Dec-2021 18:30:19 UTC] PHP Notice:  Undefined index: is_logged_in in /home/escrowch/public_html/dashboard/pages/escrow.php on line 25
+[03-Dec-2021 18:57:23 UTC] PHP Notice:  Undefined index: id in /home/escrowch/public_html/dashboard/pages/escrow.php on line 12
+[03-Dec-2021 18:57:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/escrowch/public_html/dashboard/pages/escrow.php:12) in /home/escrowch/public_html/dashboard/pages/escrow.php on line 15
+[03-Dec-2021 18:57:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/escrow.php on line 20
+[03-Dec-2021 18:57:23 UTC] PHP Notice:  Undefined index: is_logged_in in /home/escrowch/public_html/dashboard/pages/escrow.php on line 25
+[03-Dec-2021 18:58:04 UTC] PHP Notice:  Undefined index: id in /home/escrowch/public_html/dashboard/pages/escrow.php on line 12
+[03-Dec-2021 18:58:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/escrowch/public_html/dashboard/pages/escrow.php:12) in /home/escrowch/public_html/dashboard/pages/escrow.php on line 15
+[03-Dec-2021 18:58:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/escrow.php on line 20
+[03-Dec-2021 18:58:04 UTC] PHP Notice:  Undefined index: is_logged_in in /home/escrowch/public_html/dashboard/pages/escrow.php on line 25
+[03-Dec-2021 18:58:06 UTC] PHP Notice:  Undefined index: id in /home/escrowch/public_html/dashboard/pages/escrow.php on line 12
+[03-Dec-2021 18:58:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/escrowch/public_html/dashboard/pages/escrow.php:12) in /home/escrowch/public_html/dashboard/pages/escrow.php on line 15
+[03-Dec-2021 18:58:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/escrow.php on line 20
+[03-Dec-2021 18:58:06 UTC] PHP Notice:  Undefined index: is_logged_in in /home/escrowch/public_html/dashboard/pages/escrow.php on line 25
+[03-Dec-2021 23:28:46 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/escrowch/public_html/dashboard/pages/reset.php on line 167
+[04-Dec-2021 00:22:51 UTC] PHP Notice:  Undefined index: uname in /home/escrowch/public_html/dashboard/pages/profile.php on line 294
+[04-Dec-2021 00:34:46 UTC] PHP Notice:  Undefined variable: num_rows in /home/escrowch/public_html/dashboard/pages/profile.php on line 586
+[04-Dec-2021 00:35:00 UTC] PHP Notice:  Undefined variable: num_rows in /home/escrowch/public_html/dashboard/pages/profile.php on line 586
+[04-Dec-2021 00:35:17 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/escrowch/public_html/dashboard/pages/profile.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/escrowch/public_html/dashboard/pages/profile.php on line 40
+[04-Dec-2021 00:36:00 UTC] PHP Notice:  Undefined variable: num_rows in /home/escrowch/public_html/dashboard/pages/profile.php on line 581
+[04-Dec-2021 00:36:11 UTC] PHP Notice:  Undefined variable: num_rows in /home/escrowch/public_html/dashboard/pages/profile.php on line 581
+[04-Dec-2021 00:37:49 UTC] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in /home/escrowch/public_html/dashboard/pages/profile.php on line 40
+[04-Dec-2021 00:39:43 UTC] PHP Fatal error:  Query Failed! SQL: Update users Set fname = 'Chidoziee', lname='Managwue', uname='doxzye', email='chidozie.managwu@gmail.com', country='Nigeria' Where id = '105'  - Error: Unknown column 'uname' in 'field list' in /home/escrowch/public_html/dashboard/pages/profile.php on line 42
+[04-Dec-2021 00:40:15 UTC] PHP Fatal error:  Query Failed! SQL: Update users Set fname = 'Chidoziee', lname='Managwue', username='doxzye', email='chidozie.managwu@gmail.com', country='Nigeria' Where id = '105'  - Error: Unknown column 'country' in 'field list' in /home/escrowch/public_html/dashboard/pages/profile.php on line 42
+[04-Dec-2021 00:40:23 UTC] PHP Fatal error:  Query Failed! SQL: Update users Set fname = 'Chidoziee', lname='Managwue', username='doxzye', email='chidozie.managwu@gmail.com', country='Nigeria' Where id = '105'  - Error: Unknown column 'country' in 'field list' in /home/escrowch/public_html/dashboard/pages/profile.php on line 42
+[04-Dec-2021 00:40:44 UTC] PHP Notice:  Undefined variable: num_rows in /home/escrowch/public_html/dashboard/pages/profile.php on line 585
+[04-Dec-2021 00:41:12 UTC] PHP Notice:  Undefined variable: num_rows in /home/escrowch/public_html/dashboard/pages/profile.php on line 585
+[04-Dec-2021 00:41:25 UTC] PHP Notice:  Undefined variable: num_rows in /home/escrowch/public_html/dashboard/pages/profile.php on line 585
+[04-Dec-2021 00:42:01 UTC] PHP Notice:  Undefined variable: num_rows in /home/escrowch/public_html/dashboard/pages/profile.php on line 587
+[04-Dec-2021 00:42:04 UTC] PHP Notice:  Undefined variable: num_rows in /home/escrowch/public_html/dashboard/pages/profile.php on line 587
+[04-Dec-2021 00:42:13 UTC] PHP Notice:  Undefined variable: num_rows in /home/escrowch/public_html/dashboard/pages/profile.php on line 587
+[04-Dec-2021 00:42:16 UTC] PHP Notice:  Undefined variable: num_rows in /home/escrowch/public_html/dashboard/pages/profile.php on line 587
+[04-Dec-2021 01:46:34 UTC] PHP Warning:  mysqli_insert_id() expects exactly 1 parameter, 0 given in /home/escrowch/public_html/dashboard/pages/sign-up.php on line 139
+[04-Dec-2021 01:46:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 15
+[04-Dec-2021 01:49:13 UTC] PHP Warning:  mysqli_insert_id() expects exactly 1 parameter, 0 given in /home/escrowch/public_html/dashboard/pages/sign-up.php on line 139
+[04-Dec-2021 01:49:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 15
+[04-Dec-2021 01:50:52 UTC] PHP Warning:  mysqli_insert_id() expects exactly 1 parameter, 0 given in /home/escrowch/public_html/dashboard/pages/sign-up.php on line 139
+[04-Dec-2021 01:54:35 UTC] PHP Warning:  mysqli_insert_id() expects exactly 1 parameter, 0 given in /home/escrowch/public_html/dashboard/pages/sign-up.php on line 139
+[04-Dec-2021 01:54:35 UTC] PHP Fatal error:  Query Failed! SQL: INSERT into `users` (fname, lname, username, email, password, location, referal)
+            VALUES ('test', 'test', 'test', 'boletem299@terasd.com', 'test', 'Afganistan', 'escrow-chain') - Error:  in /home/escrowch/public_html/dashboard/pages/sign-up.php on line 141
+[04-Dec-2021 01:56:25 UTC] PHP Warning:  mysqli_insert_id() expects exactly 1 parameter, 0 given in /home/escrowch/public_html/dashboard/pages/sign-up.php on line 139
+[04-Dec-2021 01:56:25 UTC] PHP Fatal error:  Query Failed! SQL: INSERT into `users` (fname, lname, username, email, password, location, referal)
+            VALUES ('test', 'test', 'test', 'boletem299@terasd.com', 'test', 'Afganistan', 'chidozie.managwu@gmail.com') - Error:  in /home/escrowch/public_html/dashboard/pages/sign-up.php on line 141
+[04-Dec-2021 01:59:10 UTC] PHP Fatal error:  Query Failed! SQL: INSERT into `users` (fname, lname, username, email, password, location, referal)
+            VALUES ('test', 'test', 'test', 'boletem299@terasd.com', 'test', 'Afganistan', 'chidozie.managwu@gmail.com') - Error:  in /home/escrowch/public_html/dashboard/pages/sign-up.php on line 141
+[04-Dec-2021 02:01:12 UTC] PHP Notice:  Undefined index: id in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 8
+[04-Dec-2021 02:01:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/escrowch/public_html/dashboard/pages/dashboard.php:8) in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 10
+[04-Dec-2021 02:01:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 15
+[04-Dec-2021 08:57:38 UTC] PHP Notice:  Undefined index: id in /home/escrowch/public_html/dashboard/pages/deposit.php on line 8
+[04-Dec-2021 08:57:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/escrowch/public_html/dashboard/pages/deposit.php:8) in /home/escrowch/public_html/dashboard/pages/deposit.php on line 10
+[04-Dec-2021 08:57:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/deposit.php on line 15
+[04-Dec-2021 08:57:38 UTC] PHP Notice:  Undefined index: is_logged_in in /home/escrowch/public_html/dashboard/pages/deposit.php on line 20
+[04-Dec-2021 09:08:20 UTC] PHP Notice:  Undefined index: id in /home/escrowch/public_html/dashboard/pages/deposit.php on line 8
+[04-Dec-2021 09:08:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/escrowch/public_html/dashboard/pages/deposit.php:8) in /home/escrowch/public_html/dashboard/pages/deposit.php on line 10
+[04-Dec-2021 09:08:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/deposit.php on line 15
+[04-Dec-2021 09:08:20 UTC] PHP Notice:  Undefined index: is_logged_in in /home/escrowch/public_html/dashboard/pages/deposit.php on line 20
+[04-Dec-2021 14:28:34 UTC] PHP Notice:  Undefined index: id in /home/escrowch/public_html/dashboard/pages/deposit.php on line 8
+[04-Dec-2021 14:28:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/escrowch/public_html/dashboard/pages/deposit.php:8) in /home/escrowch/public_html/dashboard/pages/deposit.php on line 10
+[04-Dec-2021 14:28:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/deposit.php on line 15
+[04-Dec-2021 14:28:34 UTC] PHP Notice:  Undefined index: is_logged_in in /home/escrowch/public_html/dashboard/pages/deposit.php on line 20
+[04-Dec-2021 15:54:38 UTC] PHP Notice:  Undefined index: id in /home/escrowch/public_html/dashboard/pages/invite.php on line 30
+[04-Dec-2021 16:17:35 UTC] PHP Notice:  Undefined index: sendiv in /home/escrowch/public_html/dashboard/pages/invite.php on line 43
+[04-Dec-2021 16:17:38 UTC] PHP Notice:  Undefined index: sendiv in /home/escrowch/public_html/dashboard/pages/invite.php on line 43
+[04-Dec-2021 16:18:11 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (to): {chidozie.managwu@gmail.com} in /home/escrowch/public_html/dashboard/pages/PHPMailer/src/PHPMailer.php:1146
+Stack trace:
+#0 [internal function]: PHPMailer\PHPMailer\PHPMailer->addAnAddress('to', '{chidozie.manag...', '')
+#1 /home/escrowch/public_html/dashboard/pages/PHPMailer/src/PHPMailer.php(1105): call_user_func_array(Array, Array)
+#2 /home/escrowch/public_html/dashboard/pages/PHPMailer/src/PHPMailer.php(1003): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress('to', '{chidozie.manag...', '')
+#3 /home/escrowch/public_html/dashboard/pages/invite.php(73): PHPMailer\PHPMailer\PHPMailer->addAddress('{chidozie.manag...')
+#4 {main}
+  thrown in /home/escrowch/public_html/dashboard/pages/PHPMailer/src/PHPMailer.php on line 1146
+[04-Dec-2021 16:18:38 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (to): {chidozie.managwu@gmail.com} in /home/escrowch/public_html/dashboard/pages/PHPMailer/src/PHPMailer.php:1146
+Stack trace:
+#0 [internal function]: PHPMailer\PHPMailer\PHPMailer->addAnAddress('to', '{chidozie.manag...', '')
+#1 /home/escrowch/public_html/dashboard/pages/PHPMailer/src/PHPMailer.php(1105): call_user_func_array(Array, Array)
+#2 /home/escrowch/public_html/dashboard/pages/PHPMailer/src/PHPMailer.php(1003): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress('to', '{chidozie.manag...', '')
+#3 /home/escrowch/public_html/dashboard/pages/invite.php(73): PHPMailer\PHPMailer\PHPMailer->addAddress('{chidozie.manag...')
+#4 {main}
+  thrown in /home/escrowch/public_html/dashboard/pages/PHPMailer/src/PHPMailer.php on line 1146
+[04-Dec-2021 16:19:48 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (to): {chidozie.managwu@gmail.com} in /home/escrowch/public_html/dashboard/pages/PHPMailer/src/PHPMailer.php:1146
+Stack trace:
+#0 [internal function]: PHPMailer\PHPMailer\PHPMailer->addAnAddress('to', '{chidozie.manag...', '')
+#1 /home/escrowch/public_html/dashboard/pages/PHPMailer/src/PHPMailer.php(1105): call_user_func_array(Array, Array)
+#2 /home/escrowch/public_html/dashboard/pages/PHPMailer/src/PHPMailer.php(1003): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress('to', '{chidozie.manag...', '')
+#3 /home/escrowch/public_html/dashboard/pages/invite.php(73): PHPMailer\PHPMailer\PHPMailer->addAddress('{chidozie.manag...')
+#4 {main}
+  thrown in /home/escrowch/public_html/dashboard/pages/PHPMailer/src/PHPMailer.php on line 1146
+[04-Dec-2021 16:20:09 UTC] PHP Notice:  Undefined variable: transactiontype in /home/escrowch/public_html/dashboard/pages/invite.php on line 112
+[04-Dec-2021 16:20:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/escrowch/public_html/dashboard/pages/invite.php:112) in /home/escrowch/public_html/dashboard/pages/invite.php on line 145
+[04-Dec-2021 16:21:13 UTC] PHP Notice:  Undefined variable: transactiontype in /home/escrowch/public_html/dashboard/pages/invite.php on line 112
+[04-Dec-2021 16:21:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/escrowch/public_html/dashboard/pages/invite.php:112) in /home/escrowch/public_html/dashboard/pages/invite.php on line 145
+[04-Dec-2021 16:22:15 UTC] PHP Notice:  Undefined variable: transactiontype in /home/escrowch/public_html/dashboard/pages/invite.php on line 112
+[04-Dec-2021 16:22:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/escrowch/public_html/dashboard/pages/invite.php:112) in /home/escrowch/public_html/dashboard/pages/invite.php on line 145
+[04-Dec-2021 16:23:19 UTC] PHP Notice:  Undefined variable: transactiontype in /home/escrowch/public_html/dashboard/pages/invite.php on line 112
+[04-Dec-2021 16:23:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/escrowch/public_html/dashboard/pages/invite.php:112) in /home/escrowch/public_html/dashboard/pages/invite.php on line 145
+[04-Dec-2021 16:23:31 UTC] PHP Notice:  Undefined variable: transactiontype in /home/escrowch/public_html/dashboard/pages/invite.php on line 112
+[04-Dec-2021 16:23:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/escrowch/public_html/dashboard/pages/invite.php:112) in /home/escrowch/public_html/dashboard/pages/invite.php on line 145
+[04-Dec-2021 16:24:20 UTC] PHP Notice:  Undefined index: id in /home/escrowch/public_html/dashboard/pages/invite.php on line 33
+[04-Dec-2021 16:24:29 UTC] PHP Notice:  Undefined index: id in /home/escrowch/public_html/dashboard/pages/invite.php on line 11
+[04-Dec-2021 16:24:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/escrowch/public_html/dashboard/pages/invite.php:11) in /home/escrowch/public_html/dashboard/pages/invite.php on line 13
+[04-Dec-2021 16:24:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/invite.php on line 18
+[04-Dec-2021 16:24:29 UTC] PHP Notice:  Undefined index: is_logged_in in /home/escrowch/public_html/dashboard/pages/invite.php on line 23
+[04-Dec-2021 16:24:29 UTC] PHP Notice:  Undefined index: id in /home/escrowch/public_html/dashboard/pages/invite.php on line 33
+[04-Dec-2021 16:24:42 UTC] PHP Notice:  Undefined index: id in /home/escrowch/public_html/dashboard/pages/invite.php on line 33
+[04-Dec-2021 16:27:03 UTC] PHP Notice:  Undefined variable: transactiontype in /home/escrowch/public_html/dashboard/pages/invite.php on line 113
+[04-Dec-2021 16:27:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/escrowch/public_html/dashboard/pages/invite.php:113) in /home/escrowch/public_html/dashboard/pages/invite.php on line 146
+[04-Dec-2021 16:32:05 UTC] PHP Notice:  Undefined variable: escrowid in /home/escrowch/public_html/dashboard/pages/invite.php on line 397
+[04-Dec-2021 16:32:08 UTC] PHP Notice:  Undefined index: id in /home/escrowch/public_html/dashboard/pages/invite.php on line 11
+[04-Dec-2021 16:32:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/escrowch/public_html/dashboard/pages/invite.php:11) in /home/escrowch/public_html/dashboard/pages/invite.php on line 13
+[04-Dec-2021 16:32:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/invite.php on line 18
+[04-Dec-2021 16:32:08 UTC] PHP Notice:  Undefined index: is_logged_in in /home/escrowch/public_html/dashboard/pages/invite.php on line 23
+[04-Dec-2021 16:32:08 UTC] PHP Notice:  Undefined variable: escrowid in /home/escrowch/public_html/dashboard/pages/invite.php on line 397
+[04-Dec-2021 16:46:48 UTC] PHP Notice:  Undefined index: id in /home/escrowch/public_html/dashboard/pages/invite2.php on line 11
+[04-Dec-2021 16:46:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/escrowch/public_html/dashboard/pages/invite2.php:11) in /home/escrowch/public_html/dashboard/pages/invite2.php on line 13
+[04-Dec-2021 16:46:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/escrowch/public_html/dashboard/pages/invite2.php:11) in /home/escrowch/public_html/dashboard/pages/invite2.php on line 116
+[04-Dec-2021 16:46:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/invite2.php on line 140
+[04-Dec-2021 16:47:05 UTC] PHP Notice:  Undefined index: id in /home/escrowch/public_html/dashboard/pages/invite2.php on line 11
+[04-Dec-2021 16:47:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/escrowch/public_html/dashboard/pages/invite2.php:11) in /home/escrowch/public_html/dashboard/pages/invite2.php on line 116
+[04-Dec-2021 16:47:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/invite2.php on line 140
+[04-Dec-2021 16:47:17 UTC] PHP Notice:  Undefined index: id in /home/escrowch/public_html/dashboard/pages/invite.php on line 11
+[04-Dec-2021 16:47:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/invite.php on line 18
+[04-Dec-2021 16:58:09 UTC] PHP Fatal error:  Query Failed! SQL: SELECT * FROM users WHERE email = 'chidozie.managwu@gmail.com' - Error: Column count doesn't match value count at row 1 in /home/escrowch/public_html/dashboard/pages/escrow.php on line 152
+[04-Dec-2021 16:58:52 UTC] PHP Fatal error:  Query Failed! SQL: SELECT * FROM users WHERE email = 'chidozie.managwu@gmail.com' - Error: Column count doesn't match value count at row 1 in /home/escrowch/public_html/dashboard/pages/escrow.php on line 152
+[04-Dec-2021 16:59:35 UTC] PHP Fatal error:  Query Failed! SQL: SELECT * FROM users WHERE email = 'chidozie.managwu@gmail.com' - Error: Column count doesn't match value count at row 1 in /home/escrowch/public_html/dashboard/pages/escrow.php on line 152
+[04-Dec-2021 17:00:26 UTC] PHP Fatal error:  Query Failed! SQL: INSERT into `escrow2` (uid,usertype,transactiontype,currency,price,description,address,status,transactiondate,deadline)
+            VALUES ('doxzy', 'Buyer', 'online', 'BTC', '7', 'hhhhhhhhhhhhhhhhhhhhhhhhhh','hhhhhhhhhhhhh', 'Pending', '2021-12-04') - Error: Column count doesn't match value count at row 1 in /home/escrowch/public_html/dashboard/pages/escrow.php on line 152
+[05-Dec-2021 03:54:50 UTC] PHP Notice:  Undefined index: id in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 8
+[05-Dec-2021 03:54:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/escrowch/public_html/dashboard/pages/dashboard.php:8) in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 10
+[05-Dec-2021 03:54:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 15
+[05-Dec-2021 12:01:50 UTC] PHP Notice:  Undefined index: id in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 8
+[05-Dec-2021 12:01:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/escrowch/public_html/dashboard/pages/dashboard.php:8) in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 10
+[05-Dec-2021 12:01:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 15
+[05-Dec-2021 12:22:13 UTC] PHP Notice:  Undefined index: id in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 8
+[05-Dec-2021 12:22:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/escrowch/public_html/dashboard/pages/dashboard.php:8) in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 10
+[05-Dec-2021 12:22:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 15
+[05-Dec-2021 12:31:24 UTC] PHP Notice:  Undefined index: id in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 8
+[05-Dec-2021 12:31:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/escrowch/public_html/dashboard/pages/dashboard.php:8) in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 10
+[05-Dec-2021 12:31:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 15
+[06-Dec-2021 00:41:11 UTC] PHP Notice:  Undefined index: id in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 8
+[06-Dec-2021 00:41:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/escrowch/public_html/dashboard/pages/dashboard.php:8) in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 10
+[06-Dec-2021 00:41:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 15
+[02-Jan-2022 20:53:27 UTC] PHP Notice:  Undefined index: id in /home/escrowch/public_html/dashboard/pages/invite2.php on line 11
+[02-Jan-2022 20:53:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/escrowch/public_html/dashboard/pages/invite2.php:11) in /home/escrowch/public_html/dashboard/pages/invite2.php on line 13
+[02-Jan-2022 20:53:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/escrowch/public_html/dashboard/pages/invite2.php:11) in /home/escrowch/public_html/dashboard/pages/invite2.php on line 117
+[02-Jan-2022 20:53:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/invite2.php on line 141
+[02-Jan-2022 20:58:02 UTC] PHP Notice:  Undefined index: id in /home/escrowch/public_html/dashboard/pages/invite2.php on line 11
+[02-Jan-2022 20:58:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/escrowch/public_html/dashboard/pages/invite2.php:11) in /home/escrowch/public_html/dashboard/pages/invite2.php on line 117
+[02-Jan-2022 20:58:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/invite2.php on line 141
+[02-Jan-2022 21:34:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/invite.php on line 413
+[02-Jan-2022 21:35:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/invite.php on line 413
+[02-Jan-2022 21:36:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/invite.php on line 413
+[02-Jan-2022 21:36:20 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/invite.php on line 413
+[02-Jan-2022 21:39:06 UTC] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 2 given in /home/escrowch/public_html/dashboard/pages/invite.php on line 413
+[02-Jan-2022 21:39:11 UTC] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 2 given in /home/escrowch/public_html/dashboard/pages/invite.php on line 413
+[02-Jan-2022 21:40:13 UTC] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 2 given in /home/escrowch/public_html/dashboard/pages/invite.php on line 413
+[02-Jan-2022 21:41:07 UTC] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 2 given in /home/escrowch/public_html/dashboard/pages/invite.php on line 413
+[02-Jan-2022 22:29:02 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/escrowch/public_html/dashboard/pages/deposit.php on line 34
+[02-Jan-2022 22:29:14 UTC] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/escrowch/public_html/dashboard/pages/deposit.php on line 35
+[02-Jan-2022 22:29:17 UTC] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/escrowch/public_html/dashboard/pages/deposit.php on line 35
+[02-Jan-2022 22:44:56 UTC] PHP Notice:  Undefined index: currency in /home/escrowch/public_html/dashboard/pages/coinmixin.php on line 531
+[02-Jan-2022 22:44:56 UTC] PHP Notice:  Undefined index: transactiondate in /home/escrowch/public_html/dashboard/pages/coinmixin.php on line 546
+[03-Jan-2022 14:58:04 UTC] PHP Notice:  Undefined index: id in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 8
+[03-Jan-2022 14:58:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/escrowch/public_html/dashboard/pages/dashboard.php:8) in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 10
+[03-Jan-2022 14:58:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 15
+[03-Jan-2022 14:58:07 UTC] PHP Notice:  Undefined index: id in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 8
+[03-Jan-2022 14:58:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/escrowch/public_html/dashboard/pages/dashboard.php:8) in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 10
+[03-Jan-2022 14:58:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 15
+[03-Jan-2022 14:58:57 UTC] PHP Notice:  Undefined index: invitee in /home/escrowch/public_html/dashboard/pages/invite.php on line 47
+[03-Jan-2022 14:58:57 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (to):  in /home/escrowch/public_html/dashboard/pages/PHPMailer/src/PHPMailer.php:1081
+Stack trace:
+#0 /home/escrowch/public_html/dashboard/pages/PHPMailer/src/PHPMailer.php(1003): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress('to', '', '')
+#1 /home/escrowch/public_html/dashboard/pages/invite.php(74): PHPMailer\PHPMailer\PHPMailer->addAddress(NULL)
+#2 {main}
+  thrown in /home/escrowch/public_html/dashboard/pages/PHPMailer/src/PHPMailer.php on line 1081
+[03-Jan-2022 15:05:49 UTC] PHP Notice:  Undefined index: id in /home/escrowch/public_html/dashboard/pages/invite2.php on line 11
+[03-Jan-2022 15:05:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/escrowch/public_html/dashboard/pages/invite2.php:11) in /home/escrowch/public_html/dashboard/pages/invite2.php on line 13
+[03-Jan-2022 15:05:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/escrowch/public_html/dashboard/pages/invite2.php:11) in /home/escrowch/public_html/dashboard/pages/invite2.php on line 117
+[03-Jan-2022 15:05:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/invite2.php on line 141
+[03-Jan-2022 15:05:52 UTC] PHP Notice:  Undefined index: id in /home/escrowch/public_html/dashboard/pages/invite2.php on line 11
+[03-Jan-2022 15:05:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/escrowch/public_html/dashboard/pages/invite2.php:11) in /home/escrowch/public_html/dashboard/pages/invite2.php on line 13
+[03-Jan-2022 15:05:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/escrowch/public_html/dashboard/pages/invite2.php:11) in /home/escrowch/public_html/dashboard/pages/invite2.php on line 117
+[03-Jan-2022 15:05:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/invite2.php on line 141
+[03-Jan-2022 15:06:03 UTC] PHP Notice:  Undefined index: id in /home/escrowch/public_html/dashboard/pages/invite2.php on line 11
+[03-Jan-2022 15:06:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/escrowch/public_html/dashboard/pages/invite2.php:11) in /home/escrowch/public_html/dashboard/pages/invite2.php on line 13
+[03-Jan-2022 15:06:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/escrowch/public_html/dashboard/pages/invite2.php:11) in /home/escrowch/public_html/dashboard/pages/invite2.php on line 117
+[03-Jan-2022 15:06:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/invite2.php on line 141
+[03-Jan-2022 15:06:08 UTC] PHP Notice:  Undefined index: id in /home/escrowch/public_html/dashboard/pages/invite2.php on line 11
+[03-Jan-2022 15:06:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/escrowch/public_html/dashboard/pages/invite2.php:11) in /home/escrowch/public_html/dashboard/pages/invite2.php on line 117
+[03-Jan-2022 15:06:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/invite2.php on line 141
+[03-Jan-2022 15:39:18 UTC] PHP Notice:  Undefined index: id in /home/escrowch/public_html/dashboard/pages/coinmixin.php on line 8
+[03-Jan-2022 15:39:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/escrowch/public_html/dashboard/pages/coinmixin.php:8) in /home/escrowch/public_html/dashboard/pages/coinmixin.php on line 10
+[03-Jan-2022 15:39:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/coinmixin.php on line 15
+[03-Jan-2022 15:39:18 UTC] PHP Notice:  Undefined index: is_logged_in in /home/escrowch/public_html/dashboard/pages/coinmixin.php on line 20
+[03-Jan-2022 15:39:21 UTC] PHP Notice:  Undefined index: id in /home/escrowch/public_html/dashboard/pages/coinmixin.php on line 8
+[03-Jan-2022 15:39:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/escrowch/public_html/dashboard/pages/coinmixin.php:8) in /home/escrowch/public_html/dashboard/pages/coinmixin.php on line 10
+[03-Jan-2022 15:39:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/coinmixin.php on line 15
+[03-Jan-2022 15:39:21 UTC] PHP Notice:  Undefined index: is_logged_in in /home/escrowch/public_html/dashboard/pages/coinmixin.php on line 20
+[03-Jan-2022 15:39:27 UTC] PHP Notice:  Undefined index: id in /home/escrowch/public_html/dashboard/pages/coinmixin.php on line 8
+[03-Jan-2022 15:39:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/escrowch/public_html/dashboard/pages/coinmixin.php:8) in /home/escrowch/public_html/dashboard/pages/coinmixin.php on line 10
+[03-Jan-2022 15:39:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/coinmixin.php on line 15
+[03-Jan-2022 15:39:27 UTC] PHP Notice:  Undefined index: is_logged_in in /home/escrowch/public_html/dashboard/pages/coinmixin.php on line 20
+[03-Jan-2022 15:42:53 UTC] PHP Notice:  Undefined index: id in /home/escrowch/public_html/dashboard/pages/coinmixin.php on line 8
+[03-Jan-2022 15:42:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/escrowch/public_html/dashboard/pages/coinmixin.php:8) in /home/escrowch/public_html/dashboard/pages/coinmixin.php on line 10
+[03-Jan-2022 15:42:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/coinmixin.php on line 15
+[03-Jan-2022 15:42:53 UTC] PHP Notice:  Undefined index: is_logged_in in /home/escrowch/public_html/dashboard/pages/coinmixin.php on line 20
+[03-Jan-2022 15:42:56 UTC] PHP Notice:  Undefined index: id in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 8
+[03-Jan-2022 15:42:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/escrowch/public_html/dashboard/pages/dashboard.php:8) in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 10
+[03-Jan-2022 15:42:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 15
+[03-Jan-2022 15:42:57 UTC] PHP Notice:  Undefined index: id in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 8
+[03-Jan-2022 15:42:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/escrowch/public_html/dashboard/pages/dashboard.php:8) in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 10
+[03-Jan-2022 15:42:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/escrowch/public_html/dashboard/pages/dashboard.php on line 15

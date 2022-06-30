@@ -1,0 +1,829 @@
+[01-Dec-2021 23:34:13 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'fiscalr1_crypt'@'localhost' (using password: YES) in /home/escrowch/public_html/dashboard/db.php on line 4
+[01-Dec-2021 23:34:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/escrowch/public_html/dashboard/admin.php on line 6
+[01-Dec-2021 23:34:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 8
+[01-Dec-2021 23:34:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/escrowch/public_html/dashboard/admin.php on line 21
+[01-Dec-2021 23:34:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 23
+[01-Dec-2021 23:34:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/escrowch/public_html/dashboard/admin.php on line 36
+[01-Dec-2021 23:34:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 38
+[01-Dec-2021 23:34:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/escrowch/public_html/dashboard/admin.php on line 51
+[01-Dec-2021 23:34:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 52
+[01-Dec-2021 23:34:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/escrowch/public_html/dashboard/admin.php on line 56
+[01-Dec-2021 23:34:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 57
+[01-Dec-2021 23:34:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/escrowch/public_html/dashboard/admin.php on line 61
+[01-Dec-2021 23:34:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 62
+[01-Dec-2021 23:34:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/escrowch/public_html/dashboard/admin.php on line 65
+[01-Dec-2021 23:34:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[01-Dec-2021 23:34:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/escrowch/public_html/dashboard/admin.php on line 69
+[01-Dec-2021 23:34:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[01-Dec-2021 23:34:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[01-Dec-2021 23:34:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[01-Dec-2021 23:34:42 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 457
+[01-Dec-2021 23:34:42 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 500
+[01-Dec-2021 23:34:42 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 549
+[01-Dec-2021 23:34:42 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 596
+[01-Dec-2021 23:35:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[01-Dec-2021 23:35:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[01-Dec-2021 23:35:00 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 457
+[01-Dec-2021 23:35:00 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 500
+[01-Dec-2021 23:35:00 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 549
+[01-Dec-2021 23:35:00 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 596
+[01-Dec-2021 23:35:05 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[01-Dec-2021 23:35:05 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[01-Dec-2021 23:35:05 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 457
+[01-Dec-2021 23:35:05 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 500
+[01-Dec-2021 23:35:05 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 549
+[01-Dec-2021 23:35:05 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 596
+[01-Dec-2021 23:35:11 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[01-Dec-2021 23:35:11 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[01-Dec-2021 23:35:11 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 457
+[01-Dec-2021 23:35:11 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 500
+[01-Dec-2021 23:35:11 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 549
+[01-Dec-2021 23:35:11 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 596
+[01-Dec-2021 23:35:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[01-Dec-2021 23:35:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[01-Dec-2021 23:35:16 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 457
+[01-Dec-2021 23:35:16 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 500
+[01-Dec-2021 23:35:16 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 549
+[01-Dec-2021 23:35:16 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 596
+[01-Dec-2021 23:35:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[01-Dec-2021 23:35:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[01-Dec-2021 23:35:22 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 457
+[01-Dec-2021 23:35:22 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 500
+[01-Dec-2021 23:35:22 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 549
+[01-Dec-2021 23:35:22 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 596
+[01-Dec-2021 23:35:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[01-Dec-2021 23:35:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[01-Dec-2021 23:35:27 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 457
+[01-Dec-2021 23:35:27 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 500
+[01-Dec-2021 23:35:27 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 549
+[01-Dec-2021 23:35:27 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 596
+[01-Dec-2021 23:35:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[01-Dec-2021 23:35:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[01-Dec-2021 23:35:31 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 457
+[01-Dec-2021 23:35:31 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 500
+[01-Dec-2021 23:35:31 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 549
+[01-Dec-2021 23:35:31 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 596
+[01-Dec-2021 23:35:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[01-Dec-2021 23:35:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[01-Dec-2021 23:35:39 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 457
+[01-Dec-2021 23:35:39 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 500
+[01-Dec-2021 23:35:39 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 549
+[01-Dec-2021 23:35:39 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 596
+[01-Dec-2021 23:35:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[01-Dec-2021 23:35:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[01-Dec-2021 23:35:51 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 457
+[01-Dec-2021 23:35:51 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 500
+[01-Dec-2021 23:35:51 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 549
+[01-Dec-2021 23:35:51 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 596
+[01-Dec-2021 23:35:57 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[01-Dec-2021 23:35:57 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[01-Dec-2021 23:35:57 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 457
+[01-Dec-2021 23:35:57 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 500
+[01-Dec-2021 23:35:57 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 549
+[01-Dec-2021 23:35:57 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 596
+[01-Dec-2021 23:36:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[01-Dec-2021 23:36:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[01-Dec-2021 23:36:08 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 457
+[01-Dec-2021 23:36:08 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 500
+[01-Dec-2021 23:36:08 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 549
+[01-Dec-2021 23:36:08 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 596
+[01-Dec-2021 23:36:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[01-Dec-2021 23:36:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[01-Dec-2021 23:36:13 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 457
+[01-Dec-2021 23:36:13 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 500
+[01-Dec-2021 23:36:13 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 549
+[01-Dec-2021 23:36:13 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 596
+[01-Dec-2021 23:36:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[01-Dec-2021 23:36:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[01-Dec-2021 23:36:25 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 457
+[01-Dec-2021 23:36:25 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 500
+[01-Dec-2021 23:36:25 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 549
+[01-Dec-2021 23:36:25 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 596
+[01-Dec-2021 23:36:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[01-Dec-2021 23:36:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[01-Dec-2021 23:36:30 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 457
+[01-Dec-2021 23:36:30 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 500
+[01-Dec-2021 23:36:30 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 549
+[01-Dec-2021 23:36:30 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 596
+[01-Dec-2021 23:37:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[01-Dec-2021 23:37:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[01-Dec-2021 23:37:07 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 457
+[01-Dec-2021 23:37:07 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 500
+[01-Dec-2021 23:37:07 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 549
+[01-Dec-2021 23:37:07 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 596
+[01-Dec-2021 23:37:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[01-Dec-2021 23:37:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[01-Dec-2021 23:37:13 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 457
+[01-Dec-2021 23:37:13 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 500
+[01-Dec-2021 23:37:13 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 549
+[01-Dec-2021 23:37:13 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 596
+[01-Dec-2021 23:37:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[01-Dec-2021 23:37:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[01-Dec-2021 23:37:17 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 457
+[01-Dec-2021 23:37:17 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 500
+[01-Dec-2021 23:37:17 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 549
+[01-Dec-2021 23:37:17 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 596
+[01-Dec-2021 23:37:34 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[01-Dec-2021 23:37:34 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[01-Dec-2021 23:37:34 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 457
+[01-Dec-2021 23:37:34 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 500
+[01-Dec-2021 23:37:34 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 549
+[01-Dec-2021 23:37:34 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 596
+[01-Dec-2021 23:37:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[01-Dec-2021 23:37:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[01-Dec-2021 23:37:41 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 457
+[01-Dec-2021 23:37:41 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 500
+[01-Dec-2021 23:37:41 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 549
+[01-Dec-2021 23:37:41 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 596
+[01-Dec-2021 23:38:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[01-Dec-2021 23:38:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[01-Dec-2021 23:38:00 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 457
+[01-Dec-2021 23:38:00 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 500
+[01-Dec-2021 23:38:00 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 549
+[01-Dec-2021 23:38:00 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 596
+[01-Dec-2021 23:38:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[01-Dec-2021 23:38:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[01-Dec-2021 23:38:09 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 457
+[01-Dec-2021 23:38:09 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 500
+[01-Dec-2021 23:38:09 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 549
+[01-Dec-2021 23:38:09 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 596
+[01-Dec-2021 23:38:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[01-Dec-2021 23:38:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[01-Dec-2021 23:38:13 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 457
+[01-Dec-2021 23:38:13 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 500
+[01-Dec-2021 23:38:13 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 549
+[01-Dec-2021 23:38:13 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 596
+[01-Dec-2021 23:38:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[01-Dec-2021 23:38:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[01-Dec-2021 23:38:21 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 457
+[01-Dec-2021 23:38:21 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 500
+[01-Dec-2021 23:38:21 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 549
+[01-Dec-2021 23:38:21 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 596
+[01-Dec-2021 23:38:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[01-Dec-2021 23:38:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[01-Dec-2021 23:38:27 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 457
+[01-Dec-2021 23:38:27 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 500
+[01-Dec-2021 23:38:27 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 549
+[01-Dec-2021 23:38:27 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 596
+[01-Dec-2021 23:39:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[01-Dec-2021 23:39:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[01-Dec-2021 23:39:51 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 457
+[01-Dec-2021 23:39:51 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 500
+[01-Dec-2021 23:39:51 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 549
+[01-Dec-2021 23:39:51 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 596
+[01-Dec-2021 23:39:57 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[01-Dec-2021 23:39:57 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[01-Dec-2021 23:39:57 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 457
+[01-Dec-2021 23:39:57 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 500
+[01-Dec-2021 23:39:57 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 549
+[01-Dec-2021 23:39:57 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 596
+[01-Dec-2021 23:40:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[01-Dec-2021 23:40:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[01-Dec-2021 23:40:01 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 457
+[01-Dec-2021 23:40:01 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 500
+[01-Dec-2021 23:40:01 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 549
+[01-Dec-2021 23:40:01 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 596
+[01-Dec-2021 23:40:43 UTC] PHP Warning:  unlink(qr2/4324473888.jpeg): No such file or directory in /home/escrowch/public_html/dashboard/ad.php on line 20
+[01-Dec-2021 23:40:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/escrowch/public_html/dashboard/ad.php:20) in /home/escrowch/public_html/dashboard/ad.php on line 64
+[01-Dec-2021 23:40:54 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[01-Dec-2021 23:40:54 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[01-Dec-2021 23:40:54 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 457
+[01-Dec-2021 23:40:54 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 500
+[01-Dec-2021 23:40:54 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 549
+[01-Dec-2021 23:40:54 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 596
+[01-Dec-2021 23:42:44 UTC] PHP Warning:  unlink(qr/Adjustments(1).jpg): No such file or directory in /home/escrowch/public_html/dashboard/ad2.php on line 20
+[01-Dec-2021 23:42:44 UTC] PHP Warning:  move_uploaded_file(qr/tesm-one.jpg): failed to open stream: No such file or directory in /home/escrowch/public_html/dashboard/ad2.php on line 55
+[01-Dec-2021 23:42:44 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpkfvFZ6' to 'qr/tesm-one.jpg' in /home/escrowch/public_html/dashboard/ad2.php on line 55
+[01-Dec-2021 23:43:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[01-Dec-2021 23:43:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[01-Dec-2021 23:43:03 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 457
+[01-Dec-2021 23:43:03 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 500
+[01-Dec-2021 23:43:03 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 549
+[01-Dec-2021 23:43:03 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 596
+[01-Dec-2021 23:43:06 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[01-Dec-2021 23:43:06 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[01-Dec-2021 23:43:06 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 457
+[01-Dec-2021 23:43:06 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 500
+[01-Dec-2021 23:43:06 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 549
+[01-Dec-2021 23:43:06 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 596
+[01-Dec-2021 23:43:56 UTC] PHP Warning:  unlink(qr/Adjustments(1).jpg): No such file or directory in /home/escrowch/public_html/dashboard/ad2.php on line 20
+[01-Dec-2021 23:43:56 UTC] PHP Warning:  move_uploaded_file(qr/gfx-y-dark (1).png): failed to open stream: No such file or directory in /home/escrowch/public_html/dashboard/ad2.php on line 55
+[01-Dec-2021 23:43:56 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpSN5PSV' to 'qr/gfx-y-dark (1).png' in /home/escrowch/public_html/dashboard/ad2.php on line 55
+[01-Dec-2021 23:45:55 UTC] PHP Warning:  unlink(qr/Adjustments(1).jpg): No such file or directory in /home/escrowch/public_html/dashboard/ad2.php on line 20
+[01-Dec-2021 23:45:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/escrowch/public_html/dashboard/ad2.php:20) in /home/escrowch/public_html/dashboard/ad2.php on line 64
+[01-Dec-2021 23:46:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[01-Dec-2021 23:46:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[01-Dec-2021 23:46:07 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 457
+[01-Dec-2021 23:46:07 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 500
+[01-Dec-2021 23:46:07 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 549
+[01-Dec-2021 23:46:07 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 596
+[01-Dec-2021 23:46:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[01-Dec-2021 23:46:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[01-Dec-2021 23:46:07 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 457
+[01-Dec-2021 23:46:07 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 500
+[01-Dec-2021 23:46:07 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 549
+[01-Dec-2021 23:46:07 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 596
+[01-Dec-2021 23:46:12 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[01-Dec-2021 23:46:12 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[01-Dec-2021 23:46:12 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 457
+[01-Dec-2021 23:46:12 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 500
+[01-Dec-2021 23:46:12 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 549
+[01-Dec-2021 23:46:12 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 596
+[01-Dec-2021 23:49:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[01-Dec-2021 23:49:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[01-Dec-2021 23:49:39 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 457
+[01-Dec-2021 23:49:39 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 500
+[01-Dec-2021 23:49:39 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 549
+[01-Dec-2021 23:49:39 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 596
+[01-Dec-2021 23:49:44 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[01-Dec-2021 23:49:44 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[01-Dec-2021 23:49:44 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 457
+[01-Dec-2021 23:49:44 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 500
+[01-Dec-2021 23:49:44 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 549
+[01-Dec-2021 23:49:44 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 596
+[01-Dec-2021 23:57:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[01-Dec-2021 23:57:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[01-Dec-2021 23:57:41 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 457
+[01-Dec-2021 23:57:41 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 500
+[01-Dec-2021 23:57:41 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 549
+[01-Dec-2021 23:57:41 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 596
+[01-Dec-2021 23:57:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[01-Dec-2021 23:57:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[01-Dec-2021 23:57:46 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 457
+[01-Dec-2021 23:57:46 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 500
+[01-Dec-2021 23:57:46 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 549
+[01-Dec-2021 23:57:46 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 596
+[02-Dec-2021 10:44:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[02-Dec-2021 10:44:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[02-Dec-2021 10:44:43 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 457
+[02-Dec-2021 10:44:43 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 500
+[02-Dec-2021 10:44:43 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 549
+[02-Dec-2021 10:44:43 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 596
+[02-Dec-2021 10:59:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[02-Dec-2021 10:59:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[02-Dec-2021 10:59:36 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 457
+[02-Dec-2021 10:59:36 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 500
+[02-Dec-2021 10:59:36 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 549
+[02-Dec-2021 10:59:36 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 596
+[02-Dec-2021 10:59:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[02-Dec-2021 10:59:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[02-Dec-2021 10:59:41 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 457
+[02-Dec-2021 10:59:41 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 500
+[02-Dec-2021 10:59:41 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 549
+[02-Dec-2021 10:59:41 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 596
+[03-Dec-2021 12:24:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[03-Dec-2021 12:24:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[03-Dec-2021 12:24:42 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 457
+[03-Dec-2021 12:24:42 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 500
+[03-Dec-2021 12:24:42 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 549
+[03-Dec-2021 12:24:42 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 596
+[04-Dec-2021 00:55:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[04-Dec-2021 00:55:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[04-Dec-2021 00:55:40 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 457
+[04-Dec-2021 00:55:40 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 500
+[04-Dec-2021 00:55:40 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 549
+[04-Dec-2021 00:55:40 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 596
+[04-Dec-2021 00:56:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[04-Dec-2021 00:56:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[04-Dec-2021 00:56:08 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 457
+[04-Dec-2021 00:56:08 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 500
+[04-Dec-2021 00:56:08 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 549
+[04-Dec-2021 00:56:08 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 596
+[04-Dec-2021 00:59:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[04-Dec-2021 00:59:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[04-Dec-2021 00:59:02 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 473
+[04-Dec-2021 00:59:02 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 516
+[04-Dec-2021 00:59:02 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 565
+[04-Dec-2021 00:59:02 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 612
+[04-Dec-2021 00:59:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[04-Dec-2021 00:59:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[04-Dec-2021 00:59:26 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 473
+[04-Dec-2021 00:59:26 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 516
+[04-Dec-2021 00:59:26 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 565
+[04-Dec-2021 00:59:26 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 612
+[04-Dec-2021 01:02:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[04-Dec-2021 01:02:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[04-Dec-2021 01:02:43 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 457
+[04-Dec-2021 01:02:43 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 500
+[04-Dec-2021 01:02:43 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 549
+[04-Dec-2021 01:02:43 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 596
+[04-Dec-2021 01:05:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[04-Dec-2021 01:05:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[04-Dec-2021 01:05:18 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 457
+[04-Dec-2021 01:05:18 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 500
+[04-Dec-2021 01:05:18 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 549
+[04-Dec-2021 01:05:18 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 596
+[04-Dec-2021 07:40:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[04-Dec-2021 07:40:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[04-Dec-2021 07:40:09 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 459
+[04-Dec-2021 07:40:09 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 502
+[04-Dec-2021 07:40:09 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 551
+[04-Dec-2021 07:40:09 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 598
+[04-Dec-2021 07:40:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[04-Dec-2021 07:40:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[04-Dec-2021 07:40:35 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 459
+[04-Dec-2021 07:40:35 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 502
+[04-Dec-2021 07:40:35 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 551
+[04-Dec-2021 07:40:35 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 598
+[04-Dec-2021 07:40:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[04-Dec-2021 07:40:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[04-Dec-2021 07:40:40 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 459
+[04-Dec-2021 07:40:40 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 502
+[04-Dec-2021 07:40:40 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 551
+[04-Dec-2021 07:40:40 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 598
+[04-Dec-2021 07:43:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[04-Dec-2021 07:43:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[04-Dec-2021 07:43:39 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 459
+[04-Dec-2021 07:43:39 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 502
+[04-Dec-2021 07:43:39 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 551
+[04-Dec-2021 07:43:39 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 598
+[04-Dec-2021 07:44:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[04-Dec-2021 07:44:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[04-Dec-2021 07:44:16 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 459
+[04-Dec-2021 07:44:16 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 502
+[04-Dec-2021 07:44:16 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 551
+[04-Dec-2021 07:44:16 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 598
+[04-Dec-2021 07:44:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[04-Dec-2021 07:44:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[04-Dec-2021 07:44:29 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 459
+[04-Dec-2021 07:44:29 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 502
+[04-Dec-2021 07:44:29 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 551
+[04-Dec-2021 07:44:29 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 598
+[04-Dec-2021 07:44:34 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[04-Dec-2021 07:44:34 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[04-Dec-2021 07:44:34 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 459
+[04-Dec-2021 07:44:34 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 502
+[04-Dec-2021 07:44:34 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 551
+[04-Dec-2021 07:44:34 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 598
+[04-Dec-2021 14:35:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[04-Dec-2021 14:35:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[04-Dec-2021 14:35:14 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 459
+[04-Dec-2021 14:35:14 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 502
+[04-Dec-2021 14:35:14 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 551
+[04-Dec-2021 14:35:14 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 598
+[04-Dec-2021 14:44:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[04-Dec-2021 14:44:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[04-Dec-2021 14:44:53 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 459
+[04-Dec-2021 14:44:53 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 502
+[04-Dec-2021 14:44:53 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 551
+[04-Dec-2021 14:44:53 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 598
+[04-Dec-2021 14:45:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[04-Dec-2021 14:45:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[04-Dec-2021 14:45:10 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 459
+[04-Dec-2021 14:45:10 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 502
+[04-Dec-2021 14:45:10 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 551
+[04-Dec-2021 14:45:10 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 598
+[04-Dec-2021 14:45:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[04-Dec-2021 14:45:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[04-Dec-2021 14:45:27 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 459
+[04-Dec-2021 14:45:27 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 502
+[04-Dec-2021 14:45:27 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 551
+[04-Dec-2021 14:45:27 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 598
+[04-Dec-2021 14:45:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[04-Dec-2021 14:45:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[04-Dec-2021 14:45:38 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 459
+[04-Dec-2021 14:45:38 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 502
+[04-Dec-2021 14:45:38 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 551
+[04-Dec-2021 14:45:38 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 598
+[04-Dec-2021 14:45:47 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[04-Dec-2021 14:45:47 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[04-Dec-2021 14:45:47 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 459
+[04-Dec-2021 14:45:47 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 502
+[04-Dec-2021 14:45:47 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 551
+[04-Dec-2021 14:45:47 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 598
+[04-Dec-2021 16:29:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[04-Dec-2021 16:29:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[04-Dec-2021 16:29:41 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 459
+[04-Dec-2021 16:29:41 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 502
+[04-Dec-2021 16:29:41 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 551
+[04-Dec-2021 16:29:41 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 598
+[04-Dec-2021 16:30:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[04-Dec-2021 16:30:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[04-Dec-2021 16:30:31 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 459
+[04-Dec-2021 16:30:31 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 502
+[04-Dec-2021 16:30:31 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 551
+[04-Dec-2021 16:30:31 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 598
+[04-Dec-2021 16:32:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[04-Dec-2021 16:32:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[04-Dec-2021 16:32:28 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 459
+[04-Dec-2021 16:32:28 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 502
+[04-Dec-2021 16:32:28 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 551
+[04-Dec-2021 16:32:28 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 598
+[04-Dec-2021 16:32:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[04-Dec-2021 16:32:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[04-Dec-2021 16:32:40 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 459
+[04-Dec-2021 16:32:40 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 502
+[04-Dec-2021 16:32:40 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 551
+[04-Dec-2021 16:32:40 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 598
+[05-Dec-2021 12:33:57 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[05-Dec-2021 12:33:57 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[05-Dec-2021 12:33:57 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 459
+[05-Dec-2021 12:33:57 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 502
+[05-Dec-2021 12:33:57 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 551
+[05-Dec-2021 12:33:57 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 598
+[09-Dec-2021 13:39:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[09-Dec-2021 13:39:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[09-Dec-2021 13:39:35 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 459
+[09-Dec-2021 13:39:35 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 502
+[09-Dec-2021 13:39:35 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 551
+[09-Dec-2021 13:39:35 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 598
+[12-Dec-2021 17:22:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[12-Dec-2021 17:22:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[12-Dec-2021 17:22:28 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 459
+[12-Dec-2021 17:22:28 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 502
+[12-Dec-2021 17:22:28 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 551
+[12-Dec-2021 17:22:28 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 598
+[13-Dec-2021 21:21:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[13-Dec-2021 21:21:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[13-Dec-2021 21:21:17 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 459
+[13-Dec-2021 21:21:17 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 502
+[13-Dec-2021 21:21:17 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 551
+[13-Dec-2021 21:21:17 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 598
+[02-Jan-2022 20:34:50 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[02-Jan-2022 20:34:50 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[02-Jan-2022 20:34:50 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 459
+[02-Jan-2022 20:34:50 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 502
+[02-Jan-2022 20:34:50 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 551
+[02-Jan-2022 20:34:50 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 598
+[02-Jan-2022 20:35:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[02-Jan-2022 20:35:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[02-Jan-2022 20:35:09 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 459
+[02-Jan-2022 20:35:09 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 502
+[02-Jan-2022 20:35:09 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 551
+[02-Jan-2022 20:35:09 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 598
+[02-Jan-2022 20:35:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[02-Jan-2022 20:35:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[02-Jan-2022 20:35:32 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 459
+[02-Jan-2022 20:35:32 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 502
+[02-Jan-2022 20:35:32 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 551
+[02-Jan-2022 20:35:32 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 598
+[02-Jan-2022 20:35:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[02-Jan-2022 20:35:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[02-Jan-2022 20:35:37 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 459
+[02-Jan-2022 20:35:37 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 502
+[02-Jan-2022 20:35:37 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 551
+[02-Jan-2022 20:35:37 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 598
+[02-Jan-2022 20:35:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[02-Jan-2022 20:35:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[02-Jan-2022 20:35:41 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 459
+[02-Jan-2022 20:35:41 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 502
+[02-Jan-2022 20:35:41 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 551
+[02-Jan-2022 20:35:41 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 598
+[02-Jan-2022 20:35:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[02-Jan-2022 20:35:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[02-Jan-2022 20:35:43 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 459
+[02-Jan-2022 20:35:43 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 502
+[02-Jan-2022 20:35:43 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 551
+[02-Jan-2022 20:35:43 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 598
+[02-Jan-2022 20:36:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[02-Jan-2022 20:36:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[02-Jan-2022 20:36:24 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 459
+[02-Jan-2022 20:36:24 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 502
+[02-Jan-2022 20:36:24 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 551
+[02-Jan-2022 20:36:24 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 598
+[02-Jan-2022 20:36:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[02-Jan-2022 20:36:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[02-Jan-2022 20:36:29 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 459
+[02-Jan-2022 20:36:29 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 502
+[02-Jan-2022 20:36:29 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 551
+[02-Jan-2022 20:36:29 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 598
+[02-Jan-2022 20:37:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[02-Jan-2022 20:37:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[02-Jan-2022 20:37:00 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 459
+[02-Jan-2022 20:37:00 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 502
+[02-Jan-2022 20:37:00 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 551
+[02-Jan-2022 20:37:00 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 598
+[02-Jan-2022 20:37:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[02-Jan-2022 20:37:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[02-Jan-2022 20:37:03 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 459
+[02-Jan-2022 20:37:03 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 502
+[02-Jan-2022 20:37:03 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 551
+[02-Jan-2022 20:37:03 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 598
+[02-Jan-2022 20:37:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[02-Jan-2022 20:37:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[02-Jan-2022 20:37:04 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 459
+[02-Jan-2022 20:37:04 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 502
+[02-Jan-2022 20:37:04 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 551
+[02-Jan-2022 20:37:04 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 598
+[02-Jan-2022 20:37:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[02-Jan-2022 20:37:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[02-Jan-2022 20:37:15 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 459
+[02-Jan-2022 20:37:15 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 502
+[02-Jan-2022 20:37:15 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 551
+[02-Jan-2022 20:37:15 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 598
+[02-Jan-2022 20:39:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[02-Jan-2022 20:39:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[02-Jan-2022 20:39:21 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 459
+[02-Jan-2022 20:39:21 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 502
+[02-Jan-2022 20:39:21 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 551
+[02-Jan-2022 20:39:21 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 598
+[02-Jan-2022 20:40:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[02-Jan-2022 20:40:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[02-Jan-2022 20:40:16 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 459
+[02-Jan-2022 20:40:16 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 502
+[02-Jan-2022 20:40:16 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 551
+[02-Jan-2022 20:40:16 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 598
+[02-Jan-2022 20:41:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[02-Jan-2022 20:41:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[02-Jan-2022 20:41:09 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 459
+[02-Jan-2022 20:41:09 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 502
+[02-Jan-2022 20:41:09 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 551
+[02-Jan-2022 20:41:09 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 598
+[02-Jan-2022 20:41:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[02-Jan-2022 20:41:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[02-Jan-2022 20:41:15 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 459
+[02-Jan-2022 20:41:15 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 502
+[02-Jan-2022 20:41:15 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 551
+[02-Jan-2022 20:41:15 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 598
+[02-Jan-2022 20:51:11 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[02-Jan-2022 20:51:11 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[02-Jan-2022 20:51:11 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 459
+[02-Jan-2022 20:51:11 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 502
+[02-Jan-2022 20:51:11 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 551
+[02-Jan-2022 20:51:11 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 598
+[02-Jan-2022 20:51:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[02-Jan-2022 20:51:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[02-Jan-2022 20:51:16 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 459
+[02-Jan-2022 20:51:16 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 502
+[02-Jan-2022 20:51:16 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 551
+[02-Jan-2022 20:51:16 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 598
+[02-Jan-2022 20:51:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[02-Jan-2022 20:51:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[02-Jan-2022 20:51:21 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 459
+[02-Jan-2022 20:51:21 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 502
+[02-Jan-2022 20:51:21 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 551
+[02-Jan-2022 20:51:21 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 598
+[02-Jan-2022 20:51:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[02-Jan-2022 20:51:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[02-Jan-2022 20:51:27 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 459
+[02-Jan-2022 20:51:27 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 502
+[02-Jan-2022 20:51:27 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 551
+[02-Jan-2022 20:51:27 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 598
+[02-Jan-2022 22:55:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[02-Jan-2022 22:55:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[02-Jan-2022 22:55:10 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 459
+[02-Jan-2022 22:55:10 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 502
+[02-Jan-2022 22:55:10 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 551
+[02-Jan-2022 22:55:10 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 598
+[02-Jan-2022 22:55:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[02-Jan-2022 22:55:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[02-Jan-2022 22:55:30 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 459
+[02-Jan-2022 22:55:30 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 502
+[02-Jan-2022 22:55:30 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 551
+[02-Jan-2022 22:55:30 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 598
+[02-Jan-2022 22:58:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[02-Jan-2022 22:58:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[02-Jan-2022 22:58:16 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 459
+[02-Jan-2022 22:58:16 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 502
+[02-Jan-2022 22:58:16 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 551
+[02-Jan-2022 22:58:16 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 598
+[02-Jan-2022 22:58:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[02-Jan-2022 22:58:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[02-Jan-2022 22:58:21 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 459
+[02-Jan-2022 22:58:21 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 502
+[02-Jan-2022 22:58:21 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 551
+[02-Jan-2022 22:58:21 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 598
+[02-Jan-2022 22:58:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[02-Jan-2022 22:58:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[02-Jan-2022 22:58:26 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 459
+[02-Jan-2022 22:58:26 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 502
+[02-Jan-2022 22:58:26 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 551
+[02-Jan-2022 22:58:26 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 598
+[02-Jan-2022 23:05:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[02-Jan-2022 23:05:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[02-Jan-2022 23:05:15 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 479
+[02-Jan-2022 23:05:15 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 522
+[02-Jan-2022 23:05:15 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 571
+[02-Jan-2022 23:05:15 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 618
+[02-Jan-2022 23:05:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[02-Jan-2022 23:05:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[02-Jan-2022 23:05:19 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 479
+[02-Jan-2022 23:05:19 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 522
+[02-Jan-2022 23:05:19 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 571
+[02-Jan-2022 23:05:19 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 618
+[02-Jan-2022 23:05:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[02-Jan-2022 23:05:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[02-Jan-2022 23:05:25 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 479
+[02-Jan-2022 23:05:25 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 522
+[02-Jan-2022 23:05:25 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 571
+[02-Jan-2022 23:05:25 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 618
+[02-Jan-2022 23:34:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[02-Jan-2022 23:34:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[02-Jan-2022 23:34:36 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 479
+[02-Jan-2022 23:34:36 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 522
+[02-Jan-2022 23:34:36 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 571
+[02-Jan-2022 23:34:36 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 618
+[02-Jan-2022 23:34:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[02-Jan-2022 23:34:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[02-Jan-2022 23:34:42 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 479
+[02-Jan-2022 23:34:42 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 522
+[02-Jan-2022 23:34:42 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 571
+[02-Jan-2022 23:34:42 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 618
+[02-Jan-2022 23:34:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[02-Jan-2022 23:34:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[02-Jan-2022 23:34:51 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 479
+[02-Jan-2022 23:34:51 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 524
+[02-Jan-2022 23:34:51 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 573
+[02-Jan-2022 23:34:51 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 620
+[02-Jan-2022 23:35:44 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 66
+[02-Jan-2022 23:35:44 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 70
+[02-Jan-2022 23:35:44 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 479
+[02-Jan-2022 23:35:44 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 526
+[02-Jan-2022 23:35:44 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 575
+[02-Jan-2022 23:35:44 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 622
+[03-Jan-2022 00:21:05 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 69
+[03-Jan-2022 00:21:05 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 73
+[03-Jan-2022 00:21:05 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 556
+[03-Jan-2022 00:21:05 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 603
+[03-Jan-2022 00:21:05 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 652
+[03-Jan-2022 00:21:05 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 699
+[03-Jan-2022 00:21:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 69
+[03-Jan-2022 00:21:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 73
+[03-Jan-2022 00:21:07 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 556
+[03-Jan-2022 00:21:07 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 603
+[03-Jan-2022 00:21:07 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 652
+[03-Jan-2022 00:21:07 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 699
+[03-Jan-2022 00:21:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 69
+[03-Jan-2022 00:21:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 73
+[03-Jan-2022 00:21:21 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 556
+[03-Jan-2022 00:21:21 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 603
+[03-Jan-2022 00:21:21 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 652
+[03-Jan-2022 00:21:21 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 699
+[03-Jan-2022 00:22:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 69
+[03-Jan-2022 00:22:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 73
+[03-Jan-2022 00:22:01 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 556
+[03-Jan-2022 00:22:01 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 603
+[03-Jan-2022 00:22:01 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 652
+[03-Jan-2022 00:22:01 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 699
+[03-Jan-2022 00:22:06 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 69
+[03-Jan-2022 00:22:06 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 73
+[03-Jan-2022 00:22:06 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 556
+[03-Jan-2022 00:22:06 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 603
+[03-Jan-2022 00:22:06 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 652
+[03-Jan-2022 00:22:06 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 699
+[03-Jan-2022 00:22:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 69
+[03-Jan-2022 00:22:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 73
+[03-Jan-2022 00:22:09 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 556
+[03-Jan-2022 00:22:09 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 603
+[03-Jan-2022 00:22:09 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 652
+[03-Jan-2022 00:22:09 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 699
+[03-Jan-2022 00:22:44 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 69
+[03-Jan-2022 00:22:44 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 73
+[03-Jan-2022 00:22:44 UTC] PHP Warning:  require(PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home/escrowch/public_html/dashboard/admin.php on line 233
+[03-Jan-2022 00:22:44 UTC] PHP Warning:  require(PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home/escrowch/public_html/dashboard/admin.php on line 233
+[03-Jan-2022 00:22:44 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/escrowch/public_html/dashboard/admin.php on line 233
+[03-Jan-2022 00:23:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 69
+[03-Jan-2022 00:23:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 73
+[03-Jan-2022 00:23:30 UTC] PHP Warning:  require(PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home/escrowch/public_html/dashboard/admin.php on line 233
+[03-Jan-2022 00:23:30 UTC] PHP Warning:  require(PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home/escrowch/public_html/dashboard/admin.php on line 233
+[03-Jan-2022 00:23:30 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/escrowch/public_html/dashboard/admin.php on line 233
+[03-Jan-2022 00:23:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 69
+[03-Jan-2022 00:23:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 73
+[03-Jan-2022 00:23:31 UTC] PHP Warning:  require(PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home/escrowch/public_html/dashboard/admin.php on line 233
+[03-Jan-2022 00:23:31 UTC] PHP Warning:  require(PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home/escrowch/public_html/dashboard/admin.php on line 233
+[03-Jan-2022 00:23:31 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/escrowch/public_html/dashboard/admin.php on line 233
+[03-Jan-2022 00:24:10 UTC] PHP Notice:  Undefined variable: countdeposit in /home/escrowch/public_html/dashboard/admin.php on line 72
+[03-Jan-2022 00:24:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 72
+[03-Jan-2022 00:24:10 UTC] PHP Notice:  Undefined variable: countwithdraw in /home/escrowch/public_html/dashboard/admin.php on line 76
+[03-Jan-2022 00:24:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 76
+[03-Jan-2022 00:24:10 UTC] PHP Warning:  require(PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home/escrowch/public_html/dashboard/admin.php on line 236
+[03-Jan-2022 00:24:10 UTC] PHP Warning:  require(PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home/escrowch/public_html/dashboard/admin.php on line 236
+[03-Jan-2022 00:24:10 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/escrowch/public_html/dashboard/admin.php on line 236
+[03-Jan-2022 00:24:15 UTC] PHP Notice:  Undefined variable: countdeposit in /home/escrowch/public_html/dashboard/admin.php on line 72
+[03-Jan-2022 00:24:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 72
+[03-Jan-2022 00:24:15 UTC] PHP Notice:  Undefined variable: countwithdraw in /home/escrowch/public_html/dashboard/admin.php on line 76
+[03-Jan-2022 00:24:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 76
+[03-Jan-2022 00:24:15 UTC] PHP Warning:  require(PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home/escrowch/public_html/dashboard/admin.php on line 236
+[03-Jan-2022 00:24:15 UTC] PHP Warning:  require(PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home/escrowch/public_html/dashboard/admin.php on line 236
+[03-Jan-2022 00:24:15 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/escrowch/public_html/dashboard/admin.php on line 236
+[03-Jan-2022 00:24:50 UTC] PHP Notice:  Undefined variable: countdeposit in /home/escrowch/public_html/dashboard/admin.php on line 72
+[03-Jan-2022 00:24:50 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 72
+[03-Jan-2022 00:24:50 UTC] PHP Notice:  Undefined variable: countwithdraw in /home/escrowch/public_html/dashboard/admin.php on line 76
+[03-Jan-2022 00:24:50 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 76
+[03-Jan-2022 00:24:50 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 559
+[03-Jan-2022 00:24:50 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 606
+[03-Jan-2022 00:24:50 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 655
+[03-Jan-2022 00:24:50 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 702
+[03-Jan-2022 00:24:51 UTC] PHP Notice:  Undefined variable: countdeposit in /home/escrowch/public_html/dashboard/admin.php on line 72
+[03-Jan-2022 00:24:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 72
+[03-Jan-2022 00:24:51 UTC] PHP Notice:  Undefined variable: countwithdraw in /home/escrowch/public_html/dashboard/admin.php on line 76
+[03-Jan-2022 00:24:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 76
+[03-Jan-2022 00:24:51 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 559
+[03-Jan-2022 00:24:51 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 606
+[03-Jan-2022 00:24:51 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 655
+[03-Jan-2022 00:24:51 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 702
+[03-Jan-2022 00:24:52 UTC] PHP Notice:  Undefined variable: countdeposit in /home/escrowch/public_html/dashboard/admin.php on line 72
+[03-Jan-2022 00:24:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 72
+[03-Jan-2022 00:24:52 UTC] PHP Notice:  Undefined variable: countwithdraw in /home/escrowch/public_html/dashboard/admin.php on line 76
+[03-Jan-2022 00:24:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 76
+[03-Jan-2022 00:24:52 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 559
+[03-Jan-2022 00:24:52 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 606
+[03-Jan-2022 00:24:52 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 655
+[03-Jan-2022 00:24:52 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 702
+[03-Jan-2022 00:24:55 UTC] PHP Notice:  Undefined variable: countdeposit in /home/escrowch/public_html/dashboard/admin.php on line 72
+[03-Jan-2022 00:24:55 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 72
+[03-Jan-2022 00:24:55 UTC] PHP Notice:  Undefined variable: countwithdraw in /home/escrowch/public_html/dashboard/admin.php on line 76
+[03-Jan-2022 00:24:55 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 76
+[03-Jan-2022 00:24:55 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 559
+[03-Jan-2022 00:24:55 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 606
+[03-Jan-2022 00:24:55 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 655
+[03-Jan-2022 00:24:55 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 702
+[03-Jan-2022 00:26:16 UTC] PHP Notice:  Undefined variable: countdeposit in /home/escrowch/public_html/dashboard/admin.php on line 72
+[03-Jan-2022 00:26:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 72
+[03-Jan-2022 00:26:16 UTC] PHP Notice:  Undefined variable: countwithdraw in /home/escrowch/public_html/dashboard/admin.php on line 76
+[03-Jan-2022 00:26:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 76
+[03-Jan-2022 00:26:16 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 559
+[03-Jan-2022 00:26:16 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 606
+[03-Jan-2022 00:26:16 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 655
+[03-Jan-2022 00:26:16 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 702
+[03-Jan-2022 00:27:42 UTC] PHP Notice:  Undefined variable: countdeposit in /home/escrowch/public_html/dashboard/admin.php on line 72
+[03-Jan-2022 00:27:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 72
+[03-Jan-2022 00:27:42 UTC] PHP Notice:  Undefined variable: countwithdraw in /home/escrowch/public_html/dashboard/admin.php on line 76
+[03-Jan-2022 00:27:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 76
+[03-Jan-2022 00:27:42 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 559
+[03-Jan-2022 00:27:42 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 606
+[03-Jan-2022 00:27:42 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 655
+[03-Jan-2022 00:27:42 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 702
+[03-Jan-2022 00:27:43 UTC] PHP Notice:  Undefined variable: countdeposit in /home/escrowch/public_html/dashboard/admin.php on line 72
+[03-Jan-2022 00:27:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 72
+[03-Jan-2022 00:27:43 UTC] PHP Notice:  Undefined variable: countwithdraw in /home/escrowch/public_html/dashboard/admin.php on line 76
+[03-Jan-2022 00:27:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 76
+[03-Jan-2022 00:27:43 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 559
+[03-Jan-2022 00:27:43 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 606
+[03-Jan-2022 00:27:43 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 655
+[03-Jan-2022 00:27:43 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 702
+[03-Jan-2022 00:27:45 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 559
+[03-Jan-2022 00:27:45 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 606
+[03-Jan-2022 00:27:45 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 655
+[03-Jan-2022 00:27:45 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 702
+[03-Jan-2022 00:27:52 UTC] PHP Warning:  require(PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home/escrowch/public_html/dashboard/admin.php on line 236
+[03-Jan-2022 00:27:52 UTC] PHP Warning:  require(PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home/escrowch/public_html/dashboard/admin.php on line 236
+[03-Jan-2022 00:27:52 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/escrowch/public_html/dashboard/admin.php on line 236
+[03-Jan-2022 00:28:32 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 559
+[03-Jan-2022 00:28:32 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 606
+[03-Jan-2022 00:28:32 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 655
+[03-Jan-2022 00:28:32 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 702
+[03-Jan-2022 00:28:37 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 559
+[03-Jan-2022 00:28:37 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 606
+[03-Jan-2022 00:28:37 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 655
+[03-Jan-2022 00:28:37 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 702
+[03-Jan-2022 00:29:07 UTC] PHP Notice:  Undefined variable: countdeposit in /home/escrowch/public_html/dashboard/admin.php on line 72
+[03-Jan-2022 00:29:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 72
+[03-Jan-2022 00:29:07 UTC] PHP Notice:  Undefined variable: countwithdraw in /home/escrowch/public_html/dashboard/admin.php on line 76
+[03-Jan-2022 00:29:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/escrowch/public_html/dashboard/admin.php on line 76
+[03-Jan-2022 00:29:07 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 559
+[03-Jan-2022 00:29:07 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 606
+[03-Jan-2022 00:29:07 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 655
+[03-Jan-2022 00:29:07 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 702
+[03-Jan-2022 00:29:43 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 559
+[03-Jan-2022 00:29:43 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 606
+[03-Jan-2022 00:29:43 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 655
+[03-Jan-2022 00:29:43 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 702
+[03-Jan-2022 00:30:19 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 559
+[03-Jan-2022 00:30:19 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 655
+[03-Jan-2022 00:30:19 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 702
+[03-Jan-2022 00:30:23 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 559
+[03-Jan-2022 00:30:23 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 655
+[03-Jan-2022 00:30:23 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 702
+[03-Jan-2022 00:30:27 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 559
+[03-Jan-2022 00:30:27 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 655
+[03-Jan-2022 00:30:27 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 702
+[03-Jan-2022 00:32:06 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 559
+[03-Jan-2022 00:32:06 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 655
+[03-Jan-2022 00:32:06 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 702
+[03-Jan-2022 14:56:18 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 559
+[03-Jan-2022 14:56:18 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 655
+[03-Jan-2022 14:56:18 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 702
+[03-Jan-2022 14:59:10 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 559
+[03-Jan-2022 14:59:10 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 655
+[03-Jan-2022 14:59:10 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 702
+[03-Jan-2022 14:59:30 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 559
+[03-Jan-2022 14:59:30 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 655
+[03-Jan-2022 14:59:30 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 702
+[03-Jan-2022 15:03:49 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 559
+[03-Jan-2022 15:03:49 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 655
+[03-Jan-2022 15:03:49 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 702
+[03-Jan-2022 15:08:11 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 559
+[03-Jan-2022 15:08:11 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 655
+[03-Jan-2022 15:08:11 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 702
+[03-Jan-2022 15:08:18 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 559
+[03-Jan-2022 15:08:18 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 655
+[03-Jan-2022 15:08:18 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 702
+[03-Jan-2022 15:08:42 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 559
+[03-Jan-2022 15:08:42 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 655
+[03-Jan-2022 15:08:42 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 702
+[03-Jan-2022 15:08:47 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 559
+[03-Jan-2022 15:08:47 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 655
+[03-Jan-2022 15:08:47 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 702
+[03-Jan-2022 15:38:18 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 559
+[03-Jan-2022 15:38:18 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 655
+[03-Jan-2022 15:38:18 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 702
+[03-Jan-2022 15:57:18 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 559
+[03-Jan-2022 15:57:18 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 655
+[03-Jan-2022 15:57:18 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 702
+[03-Jan-2022 15:57:35 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 559
+[03-Jan-2022 15:57:35 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 655
+[03-Jan-2022 15:57:35 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 702
+[03-Jan-2022 15:57:42 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 559
+[03-Jan-2022 15:57:42 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 655
+[03-Jan-2022 15:57:42 UTC] PHP Warning:  mysqli_free_result(): Couldn't fetch mysqli_result in /home/escrowch/public_html/dashboard/admin.php on line 702
