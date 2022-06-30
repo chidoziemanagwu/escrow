@@ -1167,3 +1167,10 @@ section {
     text-align-last: center;
   }
 }
+
+.bg{
+  background: #16df7e;
+}
+.radius{
+  border-radius: 20px;
+}
