@@ -69,7 +69,7 @@ $num_rows2 = mysqli_num_rows($usersResult2);
   <link rel="shortcut icon" href="../../img/favicon.ico" type="image/x-icon">
 <link rel="icon" href="../../img/favicon.ico" type="image/x-icon">
   <title>
-    Escrow-Chain: Dashboard
+    INTERNET ESCROW SERVICES UK LIMITED: Dashboard
   </title>
   <!--     Fonts and icons     -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
@@ -149,20 +149,21 @@ $num_rows2 = mysqli_num_rows($usersResult2);
 </head>
 
 <body class="g-sidenav-show  bg-gray-100">
-  <aside class="sidenav navbar navbar-vertical navbar-expand-xs border-0 border-radius-xl my-3 fixed-start ms-3 " id="sidenav-main">
+  <aside class="sidenav navbar navbar-vertical navbar-expand-xs border-0 border-radius-xl my-3 fixed-start ms-3 shadow" id="sidenav-main">
     <div class="sidenav-header">
       <i class="fas fa-times p-3 cursor-pointer text-secondary opacity-5 position-absolute end-0 top-0 d-none d-xl-none" aria-hidden="true" id="iconSidenav"></i>
-      <a class="navbar-brand m-0" href="dashboard.php">
-        <img src="../../img/logo2.png" style="width:30px; height:100px" class="navbar-brand-img img-thumbnail shadow-1-strong me-1" alt="main_logo">
-        <span>Escrow-Chain</span>
+      <a class="navbar-brand m-0 text-center" href="dashboard.php">
+        <img src="../../assets/img/logo.png" width="50" height="100" class="navbar-brand-img shadow-1-strong me-1" alt="main_logo">
       </a>
     </div>
     <hr class="horizontal dark mt-0">
+            <p class="text-center"><a class="btn bg-gradient-primary mt-1 w-75 rounded-pill mx-auto" href="escrow.php" type="button">Start Escrow</a></p>
+            <hr class="horizontal dark mt-0">
     <div class="collapse navbar-collapse  w-auto  max-height-vh-100 h-100" id="sidenav-collapse-main">
       <ul class="navbar-nav">
         <li class="nav-item">
           <a class="nav-link  active" href="../pages/dashboard.php">
-            <div class="icon icon-shape icon-sm shadow border-radius-md bg-white text-center me-2 d-flex align-items-center justify-content-center">
+            <div class="icon icon-shape icon-sm shadow border-radius-xl bg-white text-center me-2 d-flex align-items-center justify-content-center">
               <svg width="12px" height="12px" viewBox="0 0 45 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                 <title>shop </title>
                 <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
@@ -183,7 +184,7 @@ $num_rows2 = mysqli_num_rows($usersResult2);
 
         <li class="nav-item">
           <a class="nav-link  " href="coinmixin.php">
-            <div class="icon icon-shape icon-sm shadow border-radius-md bg-white text-center me-2 d-flex align-items-center justify-content-center">
+            <div class="icon icon-shape icon-sm shadow border-radius-xl bg-white text-center me-2 d-flex align-items-center justify-content-center">
               
 <svg xmlns="http://www.w3.org/2000/svg" height="12" width="12" viewBox="0 0 12 12"><title>shopping bag</title><g fill="#212121" class="nc-icon-wrapper"><path d="M11.3,10.253l-.806-4.835A.5.5,0,0,0,10,5H2a.5.5,0,0,0-.493.418L.7,10.253A1.5,1.5,0,0,0,2.181,12H9.819a1.5,1.5,0,0,0,1.48-1.747Z" fill="#212121"></path><path d="M4.75,4V2.75a1.25,1.25,0,0,1,2.5,0V4h1.5V2.75a2.75,2.75,0,0,0-5.5,0V4Z" data-color="color-2"></path></g></svg>
             </div>
@@ -192,7 +193,7 @@ $num_rows2 = mysqli_num_rows($usersResult2);
         </li>
         <li class="nav-item">
           <a class="nav-link  " href="deposit.php">
-            <div class="icon icon-shape icon-sm shadow border-radius-md bg-white text-center me-2 d-flex align-items-center justify-content-center">
+            <div class="icon icon-shape icon-sm shadow border-radius-xl bg-white text-center me-2 d-flex align-items-center justify-content-center">
               <svg width="12px" height="12px" viewBox="0 0 43 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                 <title>credit-card</title>
                 <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
@@ -212,7 +213,7 @@ $num_rows2 = mysqli_num_rows($usersResult2);
         </li>
         <li class="nav-item">
           <a class="nav-link  " href="withdraw.php">
-            <div class="icon icon-shape icon-sm shadow border-radius-md bg-white text-center me-2 d-flex align-items-center justify-content-center">
+            <div class="icon icon-shape icon-sm shadow border-radius-xl bg-white text-center me-2 d-flex align-items-center justify-content-center">
               <svg width="12px" height="12px" viewBox="0 0 43 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                 <title>credit-card</title>
                 <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
@@ -232,7 +233,7 @@ $num_rows2 = mysqli_num_rows($usersResult2);
         </li>
         <li class="nav-item">
           <a class="nav-link  " href="referal.php">
-            <div class="icon icon-shape icon-sm shadow border-radius-md bg-white text-center me-2 d-flex align-items-center justify-content-center">
+            <div class="icon icon-shape icon-sm shadow border-radius-xl bg-white text-center me-2 d-flex align-items-center justify-content-center">
               <svg width="12px" height="12px" viewBox="0 0 46 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                 <title>users</title>
                 <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
@@ -256,7 +257,7 @@ $num_rows2 = mysqli_num_rows($usersResult2);
         </li>
         <li class="nav-item">
           <a class="nav-link  " href="profile.php">
-            <div class="icon icon-shape icon-sm shadow border-radius-md bg-white text-center me-2 d-flex align-items-center justify-content-center">
+            <div class="icon icon-shape icon-sm shadow border-radius-xl bg-white text-center me-2 d-flex align-items-center justify-content-center">
               <svg width="12px" height="12px" viewBox="0 0 46 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                 <title>customer-support</title>
                 <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
@@ -317,7 +318,7 @@ $num_rows2 = mysqli_num_rows($usersResult2);
         <!--    <span class="nav-link-text ms-1">Sign Up</span>-->
         <!--  </a>-->
         <!--</li>-->
-        <a class="btn bg-gradient-primary mt-4 w-75 mx-auto" href="escrow.php" type="button">Start Escrow</a>
+
       </ul>
     </div>
     <!--<div class="sidenav-footer mx-3 ">-->
@@ -337,7 +338,10 @@ $num_rows2 = mysqli_num_rows($usersResult2);
       
     <!--</div>-->
   </aside>
-  <main class="main-content position-relative max-height-vh-100 h-100 mt-1 border-radius-lg ">
+  
+  
+  <main style="background: rgb(140,130,246);
+background: linear-gradient(-310deg, rgba(140,130,246,1) 0%, rgba(22,223,126,1) 100%);" class="main-content position-relative max-height-vh-100 h-100 mt-1 border-radius-lg ">
     <!-- Navbar -->
     <nav class="navbar navbar-main navbar-expand-lg px-0 mx-4 shadow-none border-radius-xl" id="navbarBlur" navbar-scroll="true">
       <div class="container-fluid py-1 px-3">
@@ -345,8 +349,8 @@ $num_rows2 = mysqli_num_rows($usersResult2);
           <ul class="navbar-nav  justify-content-center">
             <li class="nav-item d-flex align-items-center">
               <a href="javascript:;" class="nav-link text-body font-weight-bold px-0">
-                <i class="fa fa-user me-sm-1"></i>
-                <span class="d-sm-inline d-none">Profile</span>
+                <i class="fa fa-user me-sm-1 text-white"></i>
+                <span class="d-sm-inline d-none text-white">Profile</span>
               </a>
             </li>
             <li class="nav-item d-xl-none ps-3 d-flex align-items-center">
@@ -359,8 +363,8 @@ $num_rows2 = mysqli_num_rows($usersResult2);
               </a>
             </li>
             <li class="nav-item px-3 d-flex align-items-center">
-              <a href="logout.php" class="nav-link text-body p-0">
-                <i class="fa fa-power-off "></i>
+              <a href="logout.php" class="nav-link text-body text-white p-0">
+                <i class="fa fa-power-off text-white"></i>
               </a>
             </li>
           </ul>
@@ -371,7 +375,7 @@ $num_rows2 = mysqli_num_rows($usersResult2);
     <div class="container-fluid py-4">
       <div class="row">
         <div class="col-xl-3 col-sm-6 mb-xl-0 mb-4">
-          <div class="card">
+          <div class="card glass">
             <div class="card-body p-3">
               <div class="row">
                 <div class="col-8">
@@ -384,7 +388,7 @@ $num_rows2 = mysqli_num_rows($usersResult2);
                   </div>
                 </div>
                 <div class="col-4 text-end">
-                  <div class="icon icon-shape bg-gradient-primary shadow text-center border-radius-md">
+                  <div class="icon icon-shape bg-gradient-primary shadow text-center border-radius-2xl">
                     <i class="ni ni-money-coins text-lg opacity-10" aria-hidden="true"></i>
                   </div>
                 </div>
@@ -393,7 +397,7 @@ $num_rows2 = mysqli_num_rows($usersResult2);
           </div>
         </div>
         <div class="col-xl-3 col-sm-6 mb-xl-0 mb-4">
-          <div class="card">
+          <div class="card glass">
             <div class="card-body p-3">
               <div class="row">
                 <div class="col-8">
@@ -405,7 +409,7 @@ $num_rows2 = mysqli_num_rows($usersResult2);
                   </div>
                 </div>
                 <div class="col-4 text-end">
-                  <div class="icon icon-shape bg-gradient-primary shadow text-center border-radius-md">
+                  <div class="icon icon-shape bg-gradient-primary shadow text-center border-radius-2xl">
                     <i class="ni ni-world text-lg opacity-10" aria-hidden="true"></i>
                   </div>
                 </div>
@@ -414,7 +418,7 @@ $num_rows2 = mysqli_num_rows($usersResult2);
           </div>
         </div>
         <div class="col-xl-3 col-sm-6 mb-xl-0 mb-4">
-          <div class="card">
+          <div class="card glass">
             <div class="card-body p-3">
               <div class="row">
                 <div class="col-8">
@@ -426,7 +430,7 @@ $num_rows2 = mysqli_num_rows($usersResult2);
                   </div>
                 </div>
                 <div class="col-4 text-end">
-                  <div class="icon icon-shape bg-gradient-primary shadow text-center border-radius-md">
+                  <div class="icon icon-shape bg-gradient-primary shadow text-center border-radius-2xl">
                     <i class="ni ni-world text-lg opacity-10" aria-hidden="true"></i>
                   </div>
                 </div>
@@ -435,7 +439,7 @@ $num_rows2 = mysqli_num_rows($usersResult2);
           </div>
         </div>
         <div class="col-xl-3 col-sm-6 mb-xl-0">
-          <div class="card">
+          <div class="card glass">
             <div class="card-body p-3">
               <div class="row">
                 <div class="col-8">
@@ -448,7 +452,7 @@ $num_rows2 = mysqli_num_rows($usersResult2);
                   </div>
                 </div>
                 <div class="col-4 text-end">
-                  <div class="icon icon-shape bg-gradient-primary shadow text-center border-radius-md">
+                  <div class="icon icon-shape bg-gradient-primary shadow text-center border-radius-2xl">
                     <i class="ni ni-paper-diploma text-lg opacity-10" aria-hidden="true"></i>
                   </div>
                 </div>
@@ -459,8 +463,8 @@ $num_rows2 = mysqli_num_rows($usersResult2);
       </div>
       <div class="row mt-4">
         <div class="col-12">
-          <div class="card h-100 p-3">
-            <div class="overflow-hidden position-relative border-radius-lg bg-cover h-100" style="background-image: url('../assets/img/ivancik.jpg');">
+          <div class="card h-100 p-3 glass">
+            <div class="overflow-hidden position-relative border-radius-lg bg-cover h-100" style="background-image: url('https://cdn.pixabay.com/photo/2018/03/10/09/45/businessman-3213659_960_720.jpg');">
               <span class="mask bg-gradient-dark"></span>
               <div class="card-body position-relative z-index-1 d-flex flex-column h-100 p-3">
                   <img src="https://www.reshot.com/preview-assets/icons/A8QMK7TWEG/upwards-graph-A8QMK7TWEG.svg" class="mb-3" height="50" width="50">
@@ -471,7 +475,7 @@ $num_rows2 = mysqli_num_rows($usersResult2);
                 <!-- You just need to get this field. -->
 <script src="https://kit.fontawesome.com/d97b87339f.js" crossorigin="anonymous"></script>
 <div class="clipboard">
-<input onclick="copy()" class="copy-input" value="https://escrow-chain.com/dashboard/pages/sign-up.php?ref=<?php echo $rowUser1['email'] ?>" id="copyClipboard" readonly>
+<input onclick="copy()" class="copy-input" value="https://internetescrowservices.co.uk/dashboard/pages/sign-up.php?ref=<?php echo $rowUser1['email'] ?>" id="copyClipboard" readonly>
 <!--<button class="copy-btn" id="copyButton" onclick="copy()"><i class="far fa-copy"></i></button>-->
 </div>
 <div id="copied-success" class="copied">
@@ -618,9 +622,9 @@ $num_rows2 = mysqli_num_rows($usersResult2);
       <!--  </div>-->
       <!--</div>-->
       <div class="row my-2">
-        <div class="col-12">
-          <div class="card mb-4">
-            <div class="card-header pb-0">
+        <div class="col-12 ">
+          <div class="card mb-4 glass">
+            <div class="card-header pb-0 glass">
               <h6>Escrow Approved</h6>
             </div>
             <div class="card-body px-0 pt-0 pb-2">
@@ -628,7 +632,7 @@ $num_rows2 = mysqli_num_rows($usersResult2);
             if($num_rows > 0 ){
                 $now = date("Y-m-d");
             ?>
-            <div class="table-responsive p-0">
+            <div class="table-responsive p-0 mt-2">
                 <table class="table align-items-center mb-0">
                   <thead>
                     <tr>
@@ -707,7 +711,7 @@ echo '<tr>
             
             <?php
             }else{
-                echo '<p class="text-center"> No Approved Escrow <br><img src="https://www.reshot.com/preview-assets/icons/ZX3BW6TV74/growing-money-ZX3BW6TV74.svg" width="50"  height="50"> </p>';
+                echo '<p class="text-center mt-4"> No Approved Escrow <br><img src="https://www.reshot.com/preview-assets/icons/ZX3BW6TV74/growing-money-ZX3BW6TV74.svg" width="50"  height="50"> </p>';
             }
             ?>
             </div>
@@ -715,9 +719,9 @@ echo '<tr>
         </div>
       </div>
       <div class="row my-2">
-        <div class="col-12">
-          <div class="card mb-4">
-            <div class="card-header pb-0">
+        <div class="col-12 ">
+          <div class="card mb-4 glass">
+            <div class="card-header pb-0 glass">
               <h6>Escrow Pending</h6>
             </div>
             <div class="card-body px-0 pt-0 pb-2">
@@ -726,7 +730,7 @@ echo '<tr>
                 
                 $now = date("Y-m-d");
             ?>
-            <div class="table-responsive p-0">
+            <div class="table-responsive p-0 mt-2">
                 <table class="table align-items-center mb-0">
                   <thead>
                     <tr>
@@ -796,7 +800,7 @@ echo '<tr>
             
             <?php
             }else{
-                echo '<p class="text-center"> No Pending Escrow <br><img src="https://www.reshot.com/preview-assets/icons/4V3SYPW9N2/money-bag-4V3SYPW9N2.svg" width="50"  height="50"> </p>';
+                echo '<p class="text-center mt-3"> No Pending Escrow <br><img src="https://www.reshot.com/preview-assets/icons/4V3SYPW9N2/money-bag-4V3SYPW9N2.svg" width="50"  height="50"> </p>';
             }
             ?>
             </div>
@@ -804,9 +808,9 @@ echo '<tr>
         </div>
       </div>
       <div class="row my-2">
-        <div class="col-12">
-          <div class="card mb-4">
-            <div class="card-header pb-0">
+        <div class="col-12 ">
+          <div class="card mb-4 glass">
+            <div class="card-header pb-0 glass">
               <h6>Escrow Declined</h6>
             </div>
             <div class="card-body px-0 pt-0 pb-2">
@@ -815,8 +819,8 @@ echo '<tr>
                 
                 $now = date("Y-m-d");
             ?>
-            <div class="table-responsive p-0">
-                <table class="table align-items-center mb-0">
+            <div class="table-responsive p-0 mt-2">
+                <table class="table align-items-center mb-0 ">
                   <thead>
                     <tr>
                       <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">User Type</th>
@@ -885,22 +889,22 @@ echo '<tr>
             
             <?php
             }else{
-                echo '<p class="text-center"> No Declined Escrow <br><img src="https://www.reshot.com/preview-assets/icons/RN2AZWDKJ9/hot-money-RN2AZWDKJ9.svg" width="50"  height="50"> </p>';
+                echo '<p class="text-center mt-3"> No Declined Escrow <br><img src="https://www.reshot.com/preview-assets/icons/RN2AZWDKJ9/hot-money-RN2AZWDKJ9.svg" width="50"  height="50"> </p>';
             }
             ?>
             </div>
           </div>
         </div>
       </div>
-      <footer class="footer pt-3  ">
+      <footer class="footer pt-3  text-white">
         <div class="container-fluid">
           <div class="row align-items-center justify-content-lg-between">
             <div class="col-lg-6 mb-lg-0 mb-4">
-              <div class="copyright text-center text-sm text-muted text-lg-start">
+              <div class="copyright text-center text-sm text-white text-lg-start">
                 © <script>
                   document.write(new Date().getFullYear())
                 </script>,
-               Escrow-Chain
+               INTERNET ESCROW SERVICES UK LIMITED
               </div>
             </div>
           </div>

@@ -12,7 +12,7 @@ $ref = '';
 if (isset($_GET['ref'])){
      $ref = $_GET['ref'];
 }else{
-    $ref = 'escrow-chain';
+    $ref = 'internet escrow';
 }
 
 if (isset($_REQUEST['fname'])){
@@ -68,8 +68,8 @@ require 'PHPMailer/src/PHPMailer.php';
 require 'PHPMailer/src/SMTP.php';
 $mail = new PHPMailer(TRUE);
 
-$mail->From = 'noreply@escrow-chain.com';
-$mail->FromName = 'Escrow-Chain';
+$mail->From = 'support@internetescrowservices.co.uk';
+$mail->FromName = 'INTERNET ESCROW SERVICES UK LIMITED';
 $mail->addAddress($email, $username);     // Add a recipient
 // $mail->addAddress('ghostfrancis2@gmail.com');               // Name is optional
 // $mail->addReplyTo('info@AfriqueBank.com', 'AfriqueBank');
@@ -80,7 +80,7 @@ $mail->addAddress($email, $username);     // Add a recipient
 // $mail->addAttachment('/tmp/image.jpg', 'new.jpg');    // Optional name
 $mail->isHTML(true);                                  // Set email format to HTML
 
-$mail->Subject = 'Escrow-Chain Successful signup';
+$mail->Subject = 'INTERNET ESCROW SERVICES UK LIMITED Successful signup';
 $mail->Body    = '<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
@@ -99,7 +99,7 @@ $mail->Body    = '<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
                             <table border="0" cellpadding="0" cellspacing="0" width="100%">
                             <tr>
                             <td align="center"  style="padding: 40px 0 30px 0; color: #153643; font-size: 28px;  font-weight: bold; font-family: Arial, sans-serif;">
-                            <img src="https://escrow.fti-consult.com/img/logo.png"  alt="Escrow-Chain" width="200" style="display: block;"/>
+                            <img src="https://internetescrowservices.co.uk/assets/img/logo.png"  alt="INTERNET ESCROW SERVICES UK LIMITED" width="200" style="display: block;"/>
                             </td>
                             </tr>
                                 <tr>
@@ -110,7 +110,7 @@ $mail->Body    = '<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
                                 <tr>
                                     <td style="padding: 20px 0 30px 0; color: #153643; font-family: Arial, sans-serif; font-size: 16px; line-height: 20px;">
                                         Hello ' . $fname .' '. $lname. ', Your registration is successful. If you have further enquiries, please contact us<br>
-                                        Regards,<br> <br> Escrow-Chain Team<br><br>
+                                        Regards,<br> <br> INTERNET ESCROW SERVICES UK LIMITED Team<br><br>
                                       
                                     </td>
                                 </tr>
@@ -200,7 +200,7 @@ else {
   <link rel="shortcut icon" href="../../img/favicon.ico" type="image/x-icon">
 <link rel="icon" href="../../img/favicon.ico" type="image/x-icon">
   <title>
-    Escrow-Chain: Register
+    INTERNET ESCROW SERVICES UK LIMITED: Register
   </title>
   <!--     Fonts and icons     -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
@@ -216,23 +216,23 @@ else {
 
 <body class="g-sidenav-show  bg-gray-100">
   <!-- End Navbar -->
-  <section class="min-vh-100 mb-8">
-    <div class="page-header align-items-start min-vh-50 pt-5 pb-11 m-3 border-radius-lg" style="background-image: url('https://images.pexels.com/photos/3184361/pexels-photo-3184361.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');">
+  <section style="background-color:rgba(22,223,126,.8);" class="min-vh-100 mb-8 pb-5">
+    <div  class="page-header align-items-start min-vh-50 pt-5 pb-11 border-radius-lg w-100 shadow-1-strong" style="background-image: url('../media/reg.png');">
       <span class="mask bg-gradient-dark opacity-6"></span>
       <div class="container">
         <div class="row justify-content-center">
           <div class="col-lg-5 text-center mx-auto">
-            <a href="../../index.html" class="text-center mb-4"><img src="../../img/logo2.png" class="img-thumbnail shadow-1-strong" style="border-radius:20px"></a>
+            <a href="../../index.html" class="text-center mb-4"><img src="../../assets/img/logo.png" class="img-thumbnail shadow-1-strong" style="border-radius:20px" width="100"></a>
             <h1 class="text-white mb-2 mt-3">Welcome!</h1>
-            <p class="text-lead text-white">Use these awesome forms to login or create new account in your project for free.</p>
+            <p class="text-lead text-white">Create an account right now for free!</p>
           </div>
         </div>
       </div>
     </div>
-    <div class="container">
-      <div class="row mt-lg-n10 mt-md-n11 mt-n10">
-        <div class="col-xl-4 col-lg-5 col-md-7 mx-auto">
-          <div class="card z-index-0">
+    <div  class="container pb-5">
+      <div class="row mt-lg-n10 mt-md-n11 mt-n10 pb-5">
+        <div class="col-xl-4 col-lg-5 col-md-7 mx-auto pb-5 mb-5">
+          <div class="card z-index-0 ">
             <div class="card-body">
               <form role="form text-left" action="" method="post">
                 <div class="mb-3">
